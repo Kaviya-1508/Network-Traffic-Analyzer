@@ -1,0 +1,748 @@
+{'src': '10.76.1.170', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00P\\x00\\x00\\x00\\x03\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_674A0243'"}
+{'src': '10.76.23.62', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x16\\x00\\x00\\x00\\x03\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_674A0243'"}
+{'src': '10.76.27.32', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x10_spotify-connect\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01'"}
+{'src': '10.76.32.210', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x84\\x00\\x00\\x00\\x00\\x02\\x00\\x00\\x00\\x02\\x01D\\x014\\x012\\x01B\\x014\\x018\\x010\\x017\\x014\\x018\\x015\\x019\\x011\\x01D\\x018\\x010\\x010\\x010\\x010'"}
+{'src': '10.76.23.80', 'dst': '51.105.71.136', 'protocol': 'TCP', 'port': 443, 'payload': "b'\\x17\\x03\\x03\\x00qo\\xd6\\xcf;?E\\x0bXR\\xdf\\x0e!\\xfd\\xb0&\\x08\\xac\\x92=<\\xb3J\\xdf\\x15\\x16o\\x90\\xc1\\xaf&\\xba9\\x87/m\\x9a\\xe6\\x1b\\x9cnJ:O\\x11w'"}
+{'src': '10.76.23.80', 'dst': '51.105.71.136', 'protocol': 'TCP', 'port': 443, 'payload': 'b\'\\x17\\x03\\x03\\nS"\\x7f\\xac\\xeb\\x9ce\\xd50\\xfd\\x92\\x97}\\xffr\\xb0G\\x94\\xb4\\x13\\x94.q\\xee\\xc6\\xcb\\x04P\\xfe\\xd2Cb,>\\xc9\\xd08\\xde\\xd2\\xe9\\xa3\\xb4\\x08\\xc1\\x13\\xc1\''}
+{'src': '51.105.71.136', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 55613, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '51.105.71.136', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 55613, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '51.105.71.136', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 55613, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '10.76.23.80', 'dst': '142.251.153.119', 'protocol': 'UDP', 'port': 443, 'payload': "b'K\\xf6\\xff\\xe9\\xad\\xcab\\xf9\\x1a+Q\\x93\\x8f\\x84\\xbe\\x06\\x8a\\x99.\\xac\\x8a\\xf3\\x89!\\xaa\\xc9\\xcb_4'"}
+{'src': '142.251.153.119', 'dst': '10.76.23.80', 'protocol': 'UDP', 'port': 59333, 'payload': "b'W\\x85\\xbb\\x95\\x19u`\\x98j\\xb5NG\\n\\xb4h\\r\\x83\\xe4\\x0e}&\\xedz\\x0e.`'"}
+{'src': '10.76.32.210', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x03\\x00\\x00\\x00\\x00\\x00\\x00\\x07_rdlink\\x04_tcp\\x05local\\x00\\x00\\x0c\\x80\\x01\\x0f_companion-li'"}
+{'src': '10.76.11.139', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x04\\x00\\x00\\x00\\x03\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_CC1AD845'"}
+{'src': '10.76.23.80', 'dst': '169.254.169.254', 'protocol': 'TCP', 'port': 80, 'payload': "b'\\x00'"}
+{'src': '169.254.169.254', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 49673, 'payload': "b''"}
+Empty payload from 169.254.169.254
+{'src': '51.105.71.136', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 55613, 'payload': 'b\'\\x17\\x03\\x03\\x00^\\xdd\\xea|eP-\\xba\\xa2\\x03\\xd8\\x17vn\\xf5\\xa4H{2\\xc7\\x92\\x1bx1"$\\x88S\\xd1Kl\\xfc?\\xd7\\xf9\\x10\\xa5A\\x0e!\\x1fh(\\xcf\\x1d8\''}
+{'src': '169.254.169.254', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 49673, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '10.76.23.80', 'dst': '51.105.71.136', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+Empty payload from 10.76.23.80
+{'src': '10.76.32.210', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x02\\x00\\x00\\x00\\x03\\x00\\x00$B06DFDB9-51C5-4933-8B6A-B3A88DD23632\\x07'"}
+{'src': '10.76.32.210', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x0b\\x00\\x00\\x00\\x00\\x0f_companion-link\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\xc0\\x0c\\x00\\x0c\\x00\\x01'"}
+{'src': '10.76.23.80', 'dst': '20.190.145.143', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+Empty payload from 10.76.23.80
+{'src': '20.190.145.143', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58810, 'payload': "b''"}
+Empty payload from 20.190.145.143
+{'src': '10.76.23.80', 'dst': '20.190.145.143', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+Empty payload from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '20.190.145.143', 'protocol': 'TCP', 'port': 443, 'payload': "b'\\x16\\x03\\x01\\x01\\xd6\\x01\\x00\\x01\\xd2\\x03\\x03\\x03\\x1b\\xbe$9\\x88\\x88\\xa0*,d\\xa8\\xb4E\\xf8\\xd28\\xb7\\xc2P\\xb94+\\xb0\\x99`XW\\x95v2T \\x8f({d\\xef\\x82'"}
+{'src': '20.190.145.143', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58810, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '20.190.145.143', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58810, 'payload': "b'\\x16\\x03\\x03\\x00\\xbb\\x02\\x00\\x00\\xb7\\x03\\x03&-u\\x99=\\xe6\\xb2%=\\xb7*!\\x9dS\\xd0u\\xaa\\x0ev\\xd0V&o\\xdbg\\xc0\\xe3\\xa6\\xbe\\xa3\\x91d \\x8f({d\\xef\\x82'"}
+{'src': '10.76.23.80', 'dst': '20.190.145.143', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+Empty payload from 10.76.23.80
+{'src': '20.190.145.143', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58810, 'payload': "b'kh\\x07\\xaf\\xb5i\\\\C\\r`\\xf7=\\x1e\\x8f\\xadI\\x1awzz\\xf8<|9]L\\xdf\\xc1\\x82\\xe1\\x1b\\x9f\\x9f\\r$\\xda^\\x9e\\xd4FS\\x94\\xaa\\xfe\\xeaS\\xa3\\xf4\\xbcn'"}
+{'src': '10.76.23.80', 'dst': '20.190.145.143', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+Empty payload from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '20.190.145.143', 'protocol': 'TCP', 'port': 443, 'payload': "b'\\x14\\x03\\x03\\x00\\x01\\x01\\x17\\x03\\x03\\x00E\\xc7B\\xb0cK\\xf6\\x07\\x88\\x1c\\x04.\\x10\\xc6\\xd3\\xe3\\x90\\xb2\\xc9\\xccs5|\\xe2\\x0b9\\xddl{\\x91\\x10Z\\x1dU\\x87?\\x19N4\\r'"}
+{'src': '10.76.23.80', 'dst': '20.190.145.143', 'protocol': 'TCP', 'port': 443, 'payload': 'b\'\\x17\\x03\\x03\\x00K\\x9b\\x11\\xfe\\x04\\xbe\\x1f"jk\\x96\\x87\\xd6\\x82\\x9aUh\\xe6{\\x11\\xdd\\x1c\\xa0~2)\\xdb M`\\xc1\\r@\\xab\\xb9\\xe1L\\x0f\\xfb+X\\x9d\\xd4b\\xc0\\xd7\''}
+{'src': '10.76.23.80', 'dst': '20.190.145.143', 'protocol': 'TCP', 'port': 443, 'payload': 'b\'\\x17\\x03\\x03\\x01\\xc7\\xe2\\xc0\\xa2\\xdaQ\\x0b\\xb3\\x13"\\xbf\\xe4\\xff\\xca\\xe8\\x95\\x80\\xac$\\xc7\\xb1\\x00Sz\\xe99\\xf7+p%\\xf8\\xf0\\xbaK\\x18\\xd4\\\'9\\xed\\xfc\\x8f\\xd6\\xbd\\xa0j\\xf9\''}
+{'src': '10.76.23.80', 'dst': '20.190.145.143', 'protocol': 'TCP', 'port': 443, 'payload': "b'\\x17\\x03\\x03\\x0c\\x86P\\x7f8\\xfc\\x9d_\\xeb\\xc0\\xbf~\\xa0W5_\\xddZ\\xc8\\xa2\\xc6\\xb8\\xc5\\xe4/X\\xd4\\xb0\\x87\\xe33\\x9b\\xa7\\x1e\\xcb\\xf6\\xd9\\xa4\\xb2C\\x0c\\x012\\x91Eo\\x96'"}
+{'src': '10.76.23.80', 'dst': '20.190.145.143', 'protocol': 'TCP', 'port': 443, 'payload': "b'\\x17\\x03\\x03\\x00\\x1a\\xc6+n\\xce\\x16\\x11\\xe4\\x151H\\xaf\\xf2@u\\x8d#d\\xd1\\xaa\\xe6R\\xb1W\\xef\\xc0\\xb5'"}
+{'src': '20.190.145.143', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58810, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '20.190.145.143', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58810, 'payload': "b'\\x17\\x03\\x03\\x00b\\nI$m\\xb2\\xab\\x9do\\xc9X\\xc0\\x15^\\x94ZM4\\xce\\x828@\\xc0I\\xbb\\xc5\\xcf\\xf5\\xe3\\x18?\\xe3\\xb6l\\x01\\x05\\xd5V\\x9b\\xda\\r\\xbe80\\xe5\\x00'"}
+{'src': '20.190.145.143', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58810, 'payload': 'b"\\x17\\x03\\x03\\x009\\xca9\\x16\\x87\'\\xda/\\xbe\\x12\\xda\\xcb\\xaez\\xc8\\x9f\\x07\\xe6~q&\\x92\\xdf\\x1f\\xe3\\xa1\\xe4\\x88\\xf8\\xa6\\xe3\\xac\\x0f\\xe3wz\\xefYqQSi{\\xb8Hc"'}
+{'src': '10.76.23.80', 'dst': '20.190.145.143', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+Empty payload from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '20.190.145.143', 'protocol': 'TCP', 'port': 443, 'payload': "b'\\x17\\x03\\x03\\x00\\x1a\\xa9\\x8f\\\\\\x04\\xb8X\\xe3w\\xa1\\xac\\xa2\\xfc|\\xadi\\x96\\xf8\\xfd\\xae\\xbb\\xaa\\xa5\\x08\\xcc}\\xae'"}
+{'src': '20.190.145.143', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58810, 'payload': "b'\\x17\\x03\\x03\\x00\\x1a\\x01\\xa1\\r\\xae\\x17r\\x1b{\\xe9\\xb9)\\\\\\x95\\x8eI\\xf5F\\x0f(\\xb1\\xfaB\\xd3\\x8e:\\xb3'"}
+{'src': '10.76.23.80', 'dst': '20.190.145.143', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+Empty payload from 10.76.23.80
+{'src': '20.190.145.143', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58810, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '20.190.145.143', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58810, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '10.76.23.80', 'dst': '13.89.179.11', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+Empty payload from 10.76.23.80
+{'src': '13.89.179.11', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58811, 'payload': "b''"}
+Empty payload from 13.89.179.11
+{'src': '10.76.23.80', 'dst': '13.89.179.11', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+Empty payload from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '13.89.179.11', 'protocol': 'TCP', 'port': 443, 'payload': "b'\\x16\\x03\\x01\\x01\\xc9\\x01\\x00\\x01\\xc5\\x03\\x03\\xaf\\x82\\x86\\xc9U*/\\xa1\\xdb.Sf\\xac1\\x06\\xf6\\x16\\xe0R\\x88e\\x90\\x96\\x0b\\xf3\\xecD\\r\\x8f\\xdf\\xd9\\xbe 2\\xd9\\xae\\x89\\x19>'"}
+{'src': '13.89.179.11', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58811, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '20.190.145.143', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58810, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '10.76.32.210', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x02\\x00\\x00\\x00\\x03\\x00\\x00$B06DFDB9-51C5-4933-8B6A-B3A88DD23632\\x07'"}
+{'src': '20.190.145.143', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58810, 'payload': "b'\\x17\\x03\\x03\\x07$J+\\x1b^\\x8f\\xe8z\\xf5y\\xafc\\x10\\xcf\\x8d\\xd0\\xf4n \\x7fp\\xac\\xf3\\x0b\\x02\\xcf\\x87\\xe6\\xdb\\xf8a,\\x18Y\\xd3g\\x0ec\\x97>\\r&I\\x05\\xb6B'"}
+{'src': '20.190.145.143', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58810, 'payload': "b'XJ[\\x8b\\xcd<\\xdaH\\x96\\x0e,BD9\\x99qE\\x05L\\xcbd\\x9a-\\xf3\\xb7\\x8cY\\xf6n\\xa6l\\x80\\xcd\\xd7\\x0bTwEWIM\\x07\\xc3\\x93H\\xa8\\x8c8\\x9bY'"}
+{'src': '10.76.23.80', 'dst': '20.190.145.143', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+Empty payload from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '20.190.145.143', 'protocol': 'TCP', 'port': 443, 'payload': "b'\\x17\\x03\\x03\\x00\\x9c\\xd9\\xba\\xbc\\xdd\\x9a\\xcc\\x80^&8\\xdd~\\x9d\\xf6F\\x84\\x0b]\\\\\\xca\\xd0H\\xdcU\\x10\\t\\xfa\\xe5\\xdcwG\\x18F\\xef\\n\\x9c\\xadRU\\xa1?\\x1d\\xcf\\xd8\\x1b'"}
+{'src': '10.76.23.80', 'dst': '20.190.145.143', 'protocol': 'TCP', 'port': 443, 'payload': 'b\'\\x17\\x03\\x03\\x0eNN@:"\\x84\\xcf\\xff\\xa9\\x9c\\xc3\\xd4\\xc3\\x0c\\xcb\\x96\\xf1-o\\x11\\xa8\\x0f\\x92@\\x91\\x1b\\xcdm\\xdd#\\n\\xab\\x8d\\xce\\x84\\x90k\\x9d\\x1c\\x98dm\\xa4\\xb4\\xaf\\xc5\''}
+{'src': '10.76.23.80', 'dst': '20.190.145.143', 'protocol': 'TCP', 'port': 443, 'payload': 'b"\\x17\\x03\\x03\\x00\\x1a\'\\xd05\\xadI\\x19\\xd4\\x12B\\xfa\\xb3\\xf8\\x9d\\xf2\\xae\\x83\\x00\\xcb*\\x8f\\xfb\\x14e\\x193`"'}
+{'src': '20.190.145.143', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58810, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '20.190.145.143', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58810, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '20.190.145.143', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58810, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '20.190.145.143', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58810, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '20.190.145.143', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58810, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '10.76.22.199', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x10_spotify-connect\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01'"}
+{'src': '10.76.11.47', 'dst': '10.76.255.255', 'protocol': 'UDP', 'port': 57621, 'payload': "b'SpotUdp05\\xbf\\xdc\\xdf4\\xa8\\xedX\\x00\\x01\\x00\\x00,\\xb5\\xa2i\\xa7\\x85\\xd7\\xa1\\xabA@\\x85\\xb6l\\x00\\xe0\\xc6\\xf7\\xac;'"}
+{'src': '20.190.145.143', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58810, 'payload': "b'\\x17\\x03\\x03\\x05\\x95w\\x86\\x1c\\x05R;j\\xc6\\xe7\\x94\\xa4\\x0c^\\xb1\\x0e8\\xbe\\xf4\\xfe{\\xc9\\xac\\xb3\\xe3\\xb3\\xa1T\\xefZ\\xca@\\x94\\xea\\x06\\x81BE#\\x18O\\xfa\\x00\\x1e\\x8e\\xfa'"}
+{'src': '10.76.23.80', 'dst': '20.190.145.143', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+Empty payload from 10.76.23.80
+{'src': '10.76.26.163', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x12\\x00\\x00\\x00\\x03\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_674A0243'"}
+{'src': '10.76.32.210', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x02\\x00\\x00\\x00\\x03\\x00\\x00$B06DFDB9-51C5-4933-8B6A-B3A88DD23632\\x07'"}
+{'src': '10.76.32.210', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x84\\x00\\x00\\x00\\x00\\x02\\x00\\x00\\x00\\x02\\x01D\\x014\\x012\\x01B\\x014\\x018\\x010\\x017\\x014\\x018\\x015\\x019\\x011\\x01D\\x018\\x010\\x010\\x010\\x010'"}
+{'src': '10.76.11.47', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x10_spotify-connect\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01'"}
+{'src': '10.76.23.80', 'dst': '20.190.145.143', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+Empty payload from 10.76.23.80
+{'src': '10.76.26.17', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00c\\x00\\x00\\x00\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_233637DE'"}
+{'src': '10.76.31.201', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x10_spotify-connect\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01'"}
+{'src': '10.76.23.80', 'dst': '10.23.3.200', 'protocol': 'UDP', 'port': 53, 'payload': "b'\\xf2\\x92\\x01\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x0fssninstitute-my\\nsharepoint\\x03com\\x00\\x00\\x01\\x00\\x01'"}
+{'src': '10.76.23.80', 'dst': '13.89.179.11', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+Empty payload from 10.76.23.80
+{'src': '13.89.179.11', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58812, 'payload': "b''"}
+Empty payload from 13.89.179.11
+{'src': '10.76.23.80', 'dst': '13.89.179.11', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+Empty payload from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '13.89.179.11', 'protocol': 'TCP', 'port': 443, 'payload': "b'\\x16\\x03\\x01\\x01\\xc9\\x01\\x00\\x01\\xc5\\x03\\x03\\xb8\\x9d\\x90e\\xc1\\xf0\\xa1\\x89\\x07,I\\x1c\\xcer\\xd5\\x8d\\xbdG\\xaa]\\t\\xc7\\xf0\\xc8l\\xed\\x1d\\x124\\xf2\\xe9\\xdb <\\x96\\x0e\\x9ex\\x9f'"}
+High traffic detected from 10.76.23.80
+{'src': '13.89.179.11', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58812, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '10.23.3.200', 'dst': '10.76.23.80', 'protocol': 'UDP', 'port': 59179, 'payload': "b'\\xf2\\x92\\x81\\x80\\x00\\x01\\x00\\x08\\x00\\x00\\x00\\x00\\x0fssninstitute-my\\nsharepoint\\x03com\\x00\\x00\\x01\\x00\\x01\\xc0\\x0c'"}
+{'src': '10.76.23.80', 'dst': '13.107.138.10', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '13.107.138.10', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58813, 'payload': "b''"}
+Empty payload from 13.107.138.10
+{'src': '10.76.23.80', 'dst': '13.107.138.10', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '13.107.138.10', 'protocol': 'TCP', 'port': 443, 'payload': "b'\\x16\\x03\\x01\\x01\\xc9\\x01\\x00\\x01\\xc5\\x03\\x03\\t\\x08\\x93`\\x1d\\xdd\\xdf\\xbd\\xe9\\x03\\xb7\\xbf{\\x82\\xef\\xd6lo\\xb4K\\x02lT\\x12\\xbc\\xcdU\\x0b\\xf2\\xb7r\\r \\xee\\x1b\\xbd\\xfey\\xbc'"}
+High traffic detected from 10.76.23.80
+{'src': '13.107.138.10', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58813, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '13.107.138.10', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58813, 'payload': "b'\\x16\\x03\\x03\\x00\\xbb\\x02\\x00\\x00\\xb7\\x03\\x03\\xaa\\xe4\\x04\\xab\\xaeM\\x1a\\xc7\\xb2\\xcd\\xd6q\\xdb\\xce\\x1c\\x86\\xc7\\xdc\\xe6\\xdf\\xb4&\\x0e!9\\xd9\\x04\\x08\\xb6\\xc5\\x15l \\xee\\x1b\\xbd\\xfey\\xbc'"}
+{'src': '13.107.138.10', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58813, 'payload': "b'.V\\x884\\x91\\x12p\\xb0\\xb3\\xf1h\\xb7[\\xa9\\xb1gjk\\xab\\xbe\\xcc\\xac\\xbc6\\x03\\x95\\x93.\\xec\\xcf(\\xfe$P\\xa0\\xdbC!\\xa7!A\\x10\\x879V\\xcb\\x83\\x92fi'"}
+{'src': '10.76.23.80', 'dst': '13.107.138.10', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '10.76.32.210', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x03\\x00\\x0b\\x00\\x00\\x00\\x00\\x07_rdlink\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\x0f_companion-li'"}
+{'src': '10.76.23.80', 'dst': '13.107.138.10', 'protocol': 'TCP', 'port': 443, 'payload': "b'\\x14\\x03\\x03\\x00\\x01\\x01\\x17\\x03\\x03\\x00E\\xc4\\xb4=\\xc9\\x1f\\xeaN\\x991\\nG\\xb7\\xb8\\xe62\\x04\\xcd\\x11D\\x89\\xba\\xc9\\xdd\\xc1\\x01\\xd9\\xa4}m\\xe6\\xee\\xa6\\x1fy\\xb4\\xe8\\xa6O\\xa0'"}
+High traffic detected from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '13.107.138.10', 'protocol': 'TCP', 'port': 443, 'payload': "b'\\x17\\x03\\x03\\x00\\xd0}\\x0f\\xebv\\x1f\\xb9\\xb4\\x90\\x92\\xe8\\xecc\\xbdc\\xe9\\xc2\\x16\\x02\\n\\x8b @\\x9c\\t/h\\x06 \\x04\\t\\xb4lc\\x1c\\x7f\\xd7kH7\\n\\xdeN\\xba\\xa3\\xf6'"}
+High traffic detected from 10.76.23.80
+{'src': '13.107.138.10', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58813, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '13.107.138.10', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58813, 'payload': "b'\\x17\\x03\\x03\\x01\\xc6\\xc6\\x13\\xb8L\\xecd(\\xdbJ\\xa9\\x8f\\xd4\\x1a\\xafn\\r\\xc9v#5\\xcb\\xa24V-\\x9cv}\\xb8A\\xd8j\\xddW\\xce\\xf9*\\xe5gVq\\xb7\\xf3\\xff\\xf2'"}
+{'src': '10.76.23.80', 'dst': '142.251.154.119', 'protocol': 'UDP', 'port': 443, 'payload': "b'D\\xe4u!\\xd1\\x16,\\x0bE|\\x99\\xdcp\\xfb7KN\\xe1\\xf4\\x0c\\x8aU+N;\\xda\\xc5d\\x92'"}
+High traffic detected from 10.76.23.80
+{'src': '13.89.179.11', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58811, 'payload': "b'\\x16\\x03\\x03\\x00\\xbb\\x02\\x00\\x00\\xb7\\x03\\x03\\xb8\\x06\\xd6f\\x88\\x82\\x1d\\x1ar@\\x05\\x00\\xe6\\xe2\\xb5\\x8a\\x90>\\xae\\x1e\\xd2\\xe7n\\x1eX\\xa0\\xc5\\xef\\x9alN\\xb9 2\\xd9\\xae\\x89\\x19>'"}
+{'src': '13.89.179.11', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58811, 'payload': "b'\\xaa\\xac\\xcb\\x87\\x1c\\x8bx\\xd1\\xa3\\xa2\\xddVXf\\xfc\\xcfo3\\xb2\\x89>\\x01\\x04\\xcdNX]+P\\xbd\\x02\\xb92\\xb6\\x93A\\xafp\\xc2\\x0e\\xb4\\xcc\\xab\\xf9Hrc\\xa5\\xefY'"}
+{'src': '13.89.179.11', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58811, 'payload': 'b\'\\xa0}8\\xeb\\xf4o\\np\\x92\\xcf#\\xe6\\x04\\xca\\xf2\\x13\\xba@5\\x81\\xf2\\x98ee\\xee\\xf6\\x08\\xe6\\x94[\\xaa\\x126v^.\\xf1\\t\\x08\\x8d\\x9dMvw\\xb3&\\xf8\\x82\\x06"\''}
+{'src': '13.89.179.11', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58811, 'payload': 'b"xn\\xc4\\x01\\x92!\\x0e\\r\\xb0\\xaf\\x1c\\xbd\\x1f\\xf1\\x90]\\xb9\\t\\x91\\x18\\x92\\xdd\\xf1y\'\\xa7\\nf\\x07\\xdd\\xf0x\\xef\\xc4H\\x18\\xb5\\x02\\x89\\x928\\xc0_\\xcd\\x83U\\x9b%\\xb5\\xc9"'}
+{'src': '13.89.179.11', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58811, 'payload': "b'\\xea\\xb2\\x9f\\x9b\\xf3\\xcc\\xe6\\xba\\xe9\\xfaL6>hc`\\x99V\\xb6)\\x86G\\xb6<ay\\x9d6\\xc4>\\xe0\\x05u\\x00\\xb2\\nC\\x7f\\xf8-\\xa1D\\x93\\xe9?\\x17\\xa4\\xa9\\xd5\\xa0'"}
+{'src': '13.89.179.11', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58811, 'payload': "b'\\x18\\xd3\\xfc$_\\xb6\\xfc \\x8c5\\xe3\\t\\x18l\\xd1\\xdb\\xf1\\xfd\\xdc\\xef7*\\xcd\\x98{\\x8d\\x89\\x19\\x96\\xd7(>F%\\x92]\\x15\\x9b\\xd7\\xd5\\xe7\\x14P\\x10q\\x16Q\\xc5PJ'"}
+{'src': '10.76.23.80', 'dst': '13.89.179.11', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '142.251.154.119', 'dst': '10.76.23.80', 'protocol': 'UDP', 'port': 59089, 'payload': 'b\'Z&\\x00\\x9eng\\nG\\x81\\xd0L\\xe0VI!5\\x8a\\xe8b\\xf0\\xa1"6\\xab\\xfd\\xe3\''}
+{'src': '10.76.23.80', 'dst': '13.107.138.10', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '13.89.179.11', 'protocol': 'TCP', 'port': 443, 'payload': 'b\'\\x14\\x03\\x03\\x00\\x01\\x01\\x17\\x03\\x03\\x00E;"\\xf3\\x84\\xe5\\x1d\\xabo\\x13-\\xc8\\x80\\xee\\xa5g\\x1b=AK|\\x03\\x8b$=yB\\x1dY\\x1e\\x8a3V\\x85v-\\x19\\x9d\\x80\\xef\''}
+High traffic detected from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '13.89.179.11', 'protocol': 'TCP', 'port': 443, 'payload': "b'\\x17\\x03\\x03\\x02\\t\\x9c\\x02G\\x1e\\xec5z\\\\\\xb7i\\x98s\\xfc\\xa2N\\xd7\\xe2\\xe3\\x85c\\xcf\\x9f\\x9b\\x84_\\x93\\x8e\\x0c+\\x0b\\xdd\\x86Xg\\xa824\\xe05\\x99\\xf8\\x08^\\xfd\\x15'"}
+High traffic detected from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '13.89.179.11', 'protocol': 'TCP', 'port': 443, 'payload': "b'\\x17\\x03\\x03\\x18\\x8b\\xfa\\xc5\\x8a\\x05R\\xb2\\xeb\\xbe!\\xad\\xf8\\x14Z=V_%g\\x1d\\xa77\\xf4 p\\xbb\\t\\x15\\xe7BT\\xf6S\\xf5Ga\\xa8\\x87\\xbf\\xe3\\xab\\xfd\\x0b\\x93\\x86\\x83'"}
+High traffic detected from 10.76.23.80
+{'src': '10.76.29.82', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x1d\\x00\\x00\\x00\\x03\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_674A0243'"}
+{'src': '13.89.179.11', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58811, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '13.89.179.11', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58811, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '13.89.179.11', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58811, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '13.89.179.11', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58811, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '13.89.179.11', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58811, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '13.89.179.11', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58811, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '13.89.179.11', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58811, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '10.76.32.210', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x84\\x00\\x00\\x00\\x00\\x06\\x00\\x00\\x00\\x02$B06DFDB9-51C5-4933-8B6A-B3A88DD23632\\x07'"}
+{'src': '13.107.138.10', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58813, 'payload': "b'\\x17\\x03\\x03\\n\\x01f\\xd2L\\xdd\\xa3\\xf2b\\xd4\\xb6\\xe6\\x8ar!\\xd7\\xa8\\xabG\\xd9\\x1cX2\\x12\\xa1no\\x86P\\xe7\\x86\\xc6\\x7fv5\\x16I\\x89$\\xefC\\xcb\\xb8\\x1b\\xf0\\xf2\\xf2'"}
+{'src': '13.107.138.10', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58813, 'payload': "b'{\\x81\\xd7\\xdb{\\xe0\\x93\\x80\\x17zf\\xec\\x82\\x82\\x0bO:\\xb9\\xbbU\\xbd\\xef\\xf4\\x0b\\xc7\\xe3Z\\xb4\\xbc\\x9a\\xad\\xa4q\\x0e\\x8b\\x8fw\\xea\\xf3J4\\x92x*]i\\x92\\x82(1'"}
+{'src': '10.76.23.80', 'dst': '13.107.138.10', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '10.76.25.244', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00>\\x00\\x00\\x00\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_233637DE'"}
+{'src': '10.76.14.66', 'dst': '255.255.255.255', 'protocol': 'UDP', 'port': 5246, 'payload': "b'\\x00\\x10\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x01\\x03\\x01\\xd4\\x00\\x00\\x14\\x00\\x01\\x00\\x00&\\x00V\\x00\\x00c\\xa2\\x00\\x00\\x00 560-WW\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '10.76.22.59', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x13\\x00\\x00\\x00\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_233637DE'"}
+{'src': '13.89.179.11', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58811, 'payload': 'b"\\x17\\x03\\x03\\x00b(\\x1f\\xd8_\\xb4\\xea\'\\xa7=\\x9b\\xc9q\\xedN\\xf10]S\\x8c\\xf8V\\xb0\\x15\\xda=\\\\.\\xe1Ql\\x1e+\\xfaWU\\xedz\\x9e\\x8c\\t\\xc6\\x9c\\x86\\xc9\\x13"'}
+{'src': '13.89.179.11', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58811, 'payload': 'b"\\x17\\x03\\x03\\x00*eQo\\x9f4\\x02\\r\\x18@3\\xae\\xb7V\'\\xb4\\xe6\\xa7\\x9ab\\xac0Jr\\x92<z\\xa1=(\'\\xc6\\x08Oloe\\xf7;\\x1f\\x18\\x9e7"'}
+{'src': '10.76.23.80', 'dst': '13.89.179.11', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '13.89.179.11', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58811, 'payload': 'b\'\\x17\\x03\\x03\\x01\\xb9\\xc0\\x80G\\xa86_\\xa4\\xdf\\xa9\\xcf\\xc5\\x84\\xc9\\x85H\\x07\\x05\\x13\\xceGa\\x8c\\xbeVY\\xf60\\x9c6eq\\x05\\x84\\xab\\x05\\xcd"\\x00\\xaf\\x87\\xa0\\xbca\\xc4)\''}
+{'src': '10.76.23.80', 'dst': '13.89.179.11', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '13.89.179.11', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58812, 'payload': "b'\\x16\\x03\\x03\\x00\\xbb\\x02\\x00\\x00\\xb7\\x03\\x030#o\\x9d\\x02\\xc3 \\xf3V\\x86\\xa7S\\x9c\\x9f\\xaf\\xbey\\x93\\xb2\\x99\\xe7\\xc6\\x9e\\xcet\\xac|\\xbf\\x940l\\xbc <\\x96\\x0e\\x9ex\\x9f'"}
+{'src': '13.89.179.11', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58812, 'payload': "b'\\x1fd\\xbc\\x97Z]\\xf6\\x13\\xd1\\x88]\\x7f\\x9f\\xca\\xab\\xb5\\x93\\x07\\xec\\x00\\x139\\xaf/!\\x08-\\xe3_Q\\x0fm\\xfd#R\\x08R[\\x8c\\xb1\\x9e\\x17Wn\\xb7\\x83\\x0b\\xcb\\xa6E'"}
+{'src': '13.89.179.11', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58812, 'payload': "b'\\xe6\\xf3\\xac\\xb3-\\x0f\\x8c\\xc4\\xedd\\xf6\\xc5\\x8a\\xf6\\x03\\xb1A\\xd4\\xe4<\\xed\\xb9i>\\x88\\x8a\\xe5\\x01\\xf2\\xb4DHo\\x17eA\\n\\x94\\xa6C\\xd1L7\\xc5V\\x9c/aq\\xdf'"}
+{'src': '13.89.179.11', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58812, 'payload': 'b"\\xce\\xf2\\xcaU\\xc1\\xa8Z\\x1ah\\xf6-w\\xf8\\xcb\\x1c4\\xaa\\xe9S\\xe0\\xaf~\\x90\\xcb\\xba\\x11\\xb5o\\xef\\xc6-\\x12nl\\xb0\\x1c\\x97\\xec\'&\\x88\\xb1\\x13\\xc5\\x92b\\xbf1\\xb50"'}
+{'src': '13.89.179.11', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58812, 'payload': 'b\'\\x0c\\xa3\\xbf\\xd5\\x01\\x02\\xf6\\x06\\xed\\xa9\\xed\\xce\\x80\\x1e\\xe4\\x00T\\xc2\\xd4\\xef/O\\xf8a"z\\x18\\xf2\\x1f\\xa0\\xe5\\x8f\\xe1E\\xe3<\\x81\\x18\\x8b\\xdc\\xb9X<>H"^\\xc3\\x17\\xb8\''}
+{'src': '13.89.179.11', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58812, 'payload': "b'\\xb8\\xac\\xd1\\xb4H\\x81\\xbe8e\\xc0\\x08X?k\\xe4\\x15\\xdcu\\x1dx\\xd5oD\\x91\\x0ec\\x14\\x85\\xe1\\x12\\xcf\\xefG\\xea&\\x92\\xd8\\xbf*\\xfbQ\\x84\\x1d\\xc4\\xf9\\xde\\xe6&\\x9a#'"}
+{'src': '10.76.23.80', 'dst': '13.89.179.11', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '13.89.179.11', 'protocol': 'TCP', 'port': 443, 'payload': "b'\\x14\\x03\\x03\\x00\\x01\\x01\\x17\\x03\\x03\\x00E\\xd7\\x17\\xc9\\xc9\\xfbSo\\xe0:\\x89(\\xf6\\\\\\xe7fk\\x0cf\\xf4\\x9c\\xdd\\xcf\\xdf\\xcc\\xf4$\\x88\\xd6\\x00c\\xd2\\xa1\\xd3\\x17\\xb9kX\\xf6\\x17'"}
+High traffic detected from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '13.89.179.11', 'protocol': 'TCP', 'port': 443, 'payload': "b'\\x17\\x03\\x03\\x03\\x88v\\xa7\\xe2\\xeb;\\xe9\\x1b\\xa0~\\x8f;\\xd5\\x8c]\\x11\\x94\\x1a\\xd80\\x88\\xbe\\x8a4\\xc3s\\x04%pc\\xb3\\xb4\\x16\\xe0j\\xf7\\xb5\\xafR\\x96\\xed\\x00x%\\xd9\\xba'"}
+High traffic detected from 10.76.23.80
+{'src': '13.89.179.11', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58812, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '13.89.179.11', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58812, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '10.76.23.80', 'dst': '10.23.3.200', 'protocol': 'UDP', 'port': 53, 'payload': "b'*\\xa6\\x01\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x05login\\x0fmicrosoftonline\\x03com\\x00\\x00\\x01\\x00\\x01'"}
+High traffic detected from 10.76.23.80
+{'src': '10.23.3.200', 'dst': '10.76.23.80', 'protocol': 'UDP', 'port': 59179, 'payload': "b'*\\xa6\\x81\\x80\\x00\\x01\\x00\\x0b\\x00\\x00\\x00\\x00\\x05login\\x0fmicrosoftonline\\x03com\\x00\\x00\\x01\\x00\\x01\\xc0\\x0c\\x00\\x05\\x00\\x01\\x00'"}
+{'src': '10.76.23.80', 'dst': '40.126.17.131', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '40.126.17.131', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58814, 'payload': "b''"}
+Empty payload from 40.126.17.131
+{'src': '10.76.23.80', 'dst': '40.126.17.131', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '44.232.164.14', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '40.126.17.131', 'protocol': 'TCP', 'port': 443, 'payload': "b'\\x16\\x03\\x01\\x01\\xd6\\x01\\x00\\x01\\xd2\\x03\\x03{\\xca\\xeb\\x9a\\xd9s\\n8\\xf6\\xdclL\\xce\\xbf\\xfe\\x04\\x0e\\x80&v7\\xfc\\xaf\\x8d=vl~{\\xa1Y\\xf5 [\\xe6L\\xff\\xb5\\x99'"}
+High traffic detected from 10.76.23.80
+{'src': '44.232.164.14', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58808, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '10.76.23.80', 'dst': '44.232.164.14', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '40.126.17.131', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58814, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '40.126.17.131', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58814, 'payload': "b'\\x16\\x03\\x03\\x00\\xbb\\x02\\x00\\x00\\xb7\\x03\\x039\\xed\\x8a`\\x9e\\xe5\\x81\\xba7\\x98\\x06\\xdb|e\\x06L\\xa1\\x12h\\x0ey\\x9c\\xe7\\t\\xd1\\xeaX\\x00\\xc8x9\\x14 [\\xe6L\\xff\\xb5\\x99'"}
+{'src': '40.126.17.131', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58814, 'payload': "b'\\xd5\\xad C\\x95>\\xab\\xb2:\\xed\\xf2\\xce\\x0f\\x02\\x8b\\xe9\\xc0\\xee\\xed!\\xe0{\\xcd\\xae\\xd4\\t~\\xe6%\\x15\\x91\\xb2\\xf2\\x08\\xdd\\x16\\xe6\\xcc\\xf0\\xfb\\x01>\\xeb-\\xe2)=\\x1f\\x1bk'"}
+{'src': '10.76.23.80', 'dst': '40.126.17.131', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '40.126.17.131', 'protocol': 'TCP', 'port': 443, 'payload': "b'\\x14\\x03\\x03\\x00\\x01\\x01\\x17\\x03\\x03\\x00Ey\\r\\x1d\\x94\\x89\\x9e\\xccjJ\\x9aa\\x00h\\xcfW\\xac\\xa3\\x85\\x9a\\x9dRi]g\\xbe\\\\\\x9c\\x8bO\\t)\\x93gU\\x9cq\\xa9\\x1dE'"}
+High traffic detected from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '40.126.17.131', 'protocol': 'TCP', 'port': 443, 'payload': "b'\\x17\\x03\\x03\\x00K\\xf6\\x98\\x9aC\\xa9Ja\\xe5\\xd4\\xf0\\x16t\\xf6)\\xe1\\xe2H\\xd9#\\xcc\\x16\\xa2v\\x93f%ouA\\xf6\\xfe\\x93a\\x8a\\xf6%\\xd5\\x1e\\xe4L\\xf7\\xd3\\xd7P\\xdb'"}
+High traffic detected from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '40.126.17.131', 'protocol': 'TCP', 'port': 443, 'payload': "b'\\x17\\x03\\x03\\x01\\xc6;Znh\\xecu\\xe9&\\xd4\\xd4 \\x80\\x83\\xe8\\xc7\\x9cF\\xa1\\xfa\\xa1\\x00<c7\\xb1\\xb6\\x86\\xfem\\xb5\\x07\\xc9\\xe8ke\\xdfy4\\xaf\\x80BJ\\xd2\\x83O'"}
+High traffic detected from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '40.126.17.131', 'protocol': 'TCP', 'port': 443, 'payload': "b'\\x17\\x03\\x03\\x0c\\x8dx\\xd0\\xa8\\x84\\x84X\\xf5\\xe7\\x11M\\xef\\xfb\\xea\\xe3xS\\x8c(B\\x11\\xf2D\\x872QX\\xef\\xba\\x0b\\x07p9G&\\xda\\x18\\xc6\\xef.\\xaf\\xcb3^\\x08X'"}
+High traffic detected from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '40.126.17.131', 'protocol': 'TCP', 'port': 443, 'payload': "b'\\x17\\x03\\x03\\x00\\x1a>\\x1e\\x98\\xb9\\x18M\\xd9\\xf4\\xb1\\xeem\\x1b\\xca\\x9aI\\x04\\xefR;\\xa9\\x9e=\\xcc\\x89NE'"}
+High traffic detected from 10.76.23.80
+{'src': '40.126.17.131', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58814, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '40.126.17.131', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58814, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '40.126.17.131', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58814, 'payload': "b'\\x17\\x03\\x03\\x00bV\\x92\\xba\\x0b\\x12P[k\\xa1c]d\\xaej\\x00\\xff\\x95\\xa5\\xd7\\x80\\x85\\r\\xbe\\xce\\x13\\xf3\\x85\\xf7c\\x83\\xd2\\xb7\\xdd2\\xfd\\xe2\\xb9\\xbc\\x1f\\xde\\xbb-#x+'"}
+{'src': '40.126.17.131', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58814, 'payload': "b'\\x17\\x03\\x03\\x009\\x9c\\xce\\xb69\\xd5IGd\\x0f\\xf3p\\xbf\\xc9\\xc3\\xe0N\\x0fy9\\xf63\\xdd\\xd8\\x14,\\xa4;\\x8b\\xa9)dh\\xe3\\xb8~\\x97)D?\\x86\\xc4H\\x88!{'"}
+{'src': '10.76.23.80', 'dst': '40.126.17.131', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '40.126.17.131', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58814, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '10.76.23.80', 'dst': '40.126.17.131', 'protocol': 'TCP', 'port': 443, 'payload': "b'\\x17\\x03\\x03\\x00\\x1aq\\xb3\\xb8~\\xf9\\xb31\\xbf\\xe1O\\xc3\\xad\\xf80\\xb8@\\x0e8\\x94-\\xe7\\xdb\\x1a\\xaf\\x8a\\x95'"}
+High traffic detected from 10.76.23.80
+{'src': '40.126.17.131', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58814, 'payload': "b'\\x17\\x03\\x03\\x00\\x1a\\x10\\xfa\\xd3\\x04\\x96\\x8c\\xd5\\xd3\\xd1\\xba\\xa3\\x93\\x9f\\xa6\\x8a\\xf0\\x8dV\\xe2QytR\\xce\\x8e\\xd2'"}
+{'src': '10.76.23.80', 'dst': '40.126.17.131', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '10.76.30.110', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x10_spotify-connect\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01'"}
+{'src': '13.89.179.11', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58812, 'payload': "b'\\x17\\x03\\x03\\x00b\\x19\\x9c\\\\S3pbIV\\x1aw(\\x1c\\xd3\\xf7\\xcb|\\xaa\\xb5\\xb0X=A\\xa661\\x01*\\neNE\\xc8\\xedRq\\xda\\x00Zf\\x82:\\x14$\\xc6'"}
+{'src': '10.76.23.80', 'dst': '13.89.179.11', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '13.89.179.11', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58812, 'payload': 'b"\\x17\\x03\\x03\\x02\\x03\\x03\\x0cu\\x06=Cc\\xc6\\x06\\x87neoa9\\xbf\\x12M\\n\'\\r>\\xe3\\xee\\x1a\\xe5\\xf0\\xc4Q:\\x07\\x17\\x90\\xf4_h\\x04\\xbb\\x81\\x906\\x03\\xd8MX"'}
+{'src': '10.76.23.80', 'dst': '13.89.179.11', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '40.126.17.131', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58814, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '10.76.27.32', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x10_spotify-connect\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01'"}
+{'src': '40.126.17.131', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58814, 'payload': 'b"\\x17\\x03\\x03\\x07\'\\xac\\xa9\\xd1z94y\\x97&\\x15\\xc9;\\x17\\xee.\\x1f\\x1d\\xa4\\x02\\xb0\\x92g>\\xedQ\\xe5\\xf4\\x810F_s.[\\xdf \\xeb\\xd5\\x0f\\x96\\x07\\xbc<\\xba\\xc5"'}
+{'src': '40.126.17.131', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58814, 'payload': 'b"\\xea\\x0f/\\xe1%\\xa9\\xf9T\\xae\\x11zqM\\xb0\\x8f/\\xcd\\xb8\\xecr\\xb8\\xb6\\xfb\'\\x1b\\xa7{&h\\xc3\\xe6R\\xef?\\x8a\\x00\\x83?qk3\\x9e\\xbc\\x8f\\x80\\xf4a\\x02<\\x1b"'}
+{'src': '10.76.23.80', 'dst': '40.126.17.131', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '40.126.17.131', 'protocol': 'TCP', 'port': 443, 'payload': "b'\\x17\\x03\\x03\\x00\\x9c\\xa3Hj\\x91\\xf9 B\\xe2\\x86|Q\\xbee\\x83x\\xa7\\xe8\\xf1\\x15c\\x01\\xec\\x17G-2|\\x06jsP~\\x7f\\x92#\\xebX,x\\x85\\xc0\\xd1RxO'"}
+High traffic detected from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '40.126.17.131', 'protocol': 'TCP', 'port': 443, 'payload': 'b"\\x17\\x03\\x03\\x0eU\\x04\'\\xc7\\x847\\x03\\xe5c\\x1f\\xfe\\xef\\xce\\xc9\\xad\\xaf7h\\xfb\\x8d\\xf7\\xa774\\xc2\\xb3N\\xe9\\xf6\\xdf\\x9c\\x0e^\\x9c6\\xd9}\\x07\\xbe-\\x87\\x18\\xc5Q*{"'}
+High traffic detected from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '40.126.17.131', 'protocol': 'TCP', 'port': 443, 'payload': "b'\\x17\\x03\\x03\\x00\\x1aw\\\\K`\\x01\\xb9\\xe7\\xa3\\xa6\\x1f\\x93Hx\\x0e\\x0c\\x07\\xcb\\x82\\x95+\\x10\\xb1Xm\\x0f2'"}
+High traffic detected from 10.76.23.80
+{'src': '40.126.17.131', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58814, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '40.126.17.131', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58814, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '40.126.17.131', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58814, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '40.126.17.131', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58814, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '40.126.17.131', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58814, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '10.76.23.80', 'dst': '142.251.153.119', 'protocol': 'UDP', 'port': 443, 'payload': 'b"H\\xed\\xf9\\xa0\\xf6J\\x19\\xd8\\x86\\xb0\\xf6\\xaa\\xc3\'\\xa0\\x97\\x8cy\\xd3\\xbaU#\\x0f\\x0e\\xa0N\\xf6b\\xa6"'}
+High traffic detected from 10.76.23.80
+{'src': '142.251.153.119', 'dst': '10.76.23.80', 'protocol': 'UDP', 'port': 49711, 'payload': "b'JxV}\\x9d\\xb2\\xea;\\xbd\\xf2\\xa5>\\xeaR\\xce\\xb5\\xa5E\\x8btt\\x1a/l\\x13\\xee'"}
+{'src': '40.126.17.131', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58814, 'payload': "b'\\x17\\x03\\x03\\x05\\x92Fo\\n\\xea\\x047\\xed0\\xbb\\x1c}u\\x8c\\xcc\\xa9\\x9e\\xe5,\\xc5\\xb6\\x91\\xe8z=\\x17\\xf3F\\x9b#T\\x949\\xcel\\x11\\xb8\\x82U\\xda\\x17\\x1a(6a\\xf7'"}
+{'src': '10.76.23.80', 'dst': '40.126.17.131', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '10.76.32.210', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x84\\x00\\x00\\x00\\x00\\x06\\x00\\x00\\x00\\x02$B06DFDB9-51C5-4933-8B6A-B3A88DD23632\\x07'"}
+{'src': '10.76.27.192', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': 'b"\\x00\'\\x00\\x00\\x00\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_233637DE"'}
+{'src': '10.76.14.66', 'dst': '255.255.255.255', 'protocol': 'UDP', 'port': 12223, 'payload': "b'\\x04\\x00\\x00\\x9e\\x00\\x00\\x01\\x01\\x00\\x96\\x00\\x00\\x00\\x00:\\x00\\x01\\x00\\x03\\x00\\x10\\x00\\x00\\x00A\\x10\\xa2T\\x80\\x00\\x00\\x01-\\x02\\x02\\x00\\x002\\x00N\\x00\\x00\\x00\\x00560-WW'"}
+{'src': '10.76.23.80', 'dst': '40.126.17.131', 'protocol': 'TCP', 'port': 443, 'payload': 'b\'\\x17\\x03\\x03\\x00\\xb8\\x81\\x833\\xaea\\xc5br\\xb3\\xe1\\xf4"0\\x84\\xfe-\\xca\\x16\\xb7\\x8b\\xb7\\x04\\xe1\\x9e^\\x1b2,P\\xd0\\xc2\\xbe\\xb8M\\xad\\xad\\x9e\\x8a\\xfe\\x82O\\xa5>DN\''}
+High traffic detected from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '40.126.17.131', 'protocol': 'TCP', 'port': 443, 'payload': "b'\\x17\\x03\\x03\\x0c~\\xa1\\xe2G\\xa4\\x00!\\x14\\x99\\xc2\\x01i\\x89gINh\\xac\\x8c\\x03)\\xd3Wfk\\\\\\xafYG2N\\xebp+\\xbeiu\\xa6\\xe75\\x1c\\xd1N\\x0b\\xa4i'"}
+High traffic detected from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '40.126.17.131', 'protocol': 'TCP', 'port': 443, 'payload': "b'\\x17\\x03\\x03\\x00\\x1a:\\x8e\\xcf?\\xbd\\x05>\\xa4\\xa9\\xe9\\x15Qx7O\\xd5\\x863g\\x81\\xd4\\x93\\x88\\xd8#['"}
+High traffic detected from 10.76.23.80
+{'src': '40.126.17.131', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58814, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '40.126.17.131', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58814, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '40.126.17.131', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58814, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '40.126.17.131', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58814, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '40.126.17.131', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58814, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '40.126.17.131', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58814, 'payload': "b'\\x17\\x03\\x03\\x05\\x98\\xc1\\x14\\x04S=\\xa1\\xe6\\xb4E\\x15\\xaa\\xad\\xfb\\xa1Uk\\x88\\xe5\\xa4\\xe6SO\\xc5v0\\xe7\\xa6\\x0c\\xb7\\xc9\\x9e\\x08\\x84_\\x9c\\x11\\x93\\x0c\\x19\\xf86Iue\\x96'"}
+{'src': '10.76.23.80', 'dst': '40.126.17.131', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '10.76.25.210', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x08\\x00\\x00\\x00\\x04\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_674A0243'"}
+{'src': '10.76.10.31', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00-\\x00\\x00\\x00\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_233637DE'"}
+{'src': '10.76.23.80', 'dst': '40.126.17.131', 'protocol': 'TCP', 'port': 443, 'payload': "b'\\x17\\x03\\x03\\x00\\x9c\\x13e\\x17\\xb2[\\xc7P\\x1d\\xed\\xf6\\xec.\\nW|1s\\xaf\\xb9$\\xb0\\x19\\xc1vjp\\x03\\xebC\\xc2Og\\xce\\t\\xe2\\x06\\xc7\\xa9\\x14L<B\\x9bBH'"}
+High traffic detected from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '40.126.17.131', 'protocol': 'TCP', 'port': 443, 'payload': "b'\\x17\\x03\\x03\\x0eJ\\xaf\\xdc\\xe6-\\x14\\x9cn\\xfa\\x81\\\\\\xdfS\\xd2\\xaf\\xee_\\xb3\\x98\\x0e\\xd0\\xdd\\xf0\\xe8\\xcbj\\x11\\xadY\\xbf\\xd1\\xdd\\xea\\xd3\\x9fK\\x11?~3\\x1b\\xbfT\\xeb\\xf0\\xbf'"}
+High traffic detected from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '40.126.17.131', 'protocol': 'TCP', 'port': 443, 'payload': "b'\\x17\\x03\\x03\\x00\\x1a\\x19\\x96\\x81o\\x19\\x867=\\x7f\\xd0\\x93\\xc1\\x1c\\xeef\\xb5\\xb0Y\\x0f&$,g\\x1b\\x83\\x9b'"}
+High traffic detected from 10.76.23.80
+{'src': '40.126.17.131', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58814, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '40.126.17.131', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58814, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '40.126.17.131', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58814, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '40.126.17.131', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58814, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '40.126.17.131', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58814, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '10.76.31.230', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x84\\x00\\x00\\x00\\x00\\x04\\x00\\x00\\x00\\x03\\x03230\\x0231\\x0276\\x0210\\x07in-addr\\x04arpa\\x00\\x00\\x0c\\x80\\x01\\x00\\x00\\x00x\\x00\\x11\\t'"}
+{'src': '10.76.22.199', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x10_spotify-connect\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01'"}
+{'src': '40.126.17.131', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58814, 'payload': 'b"\\x17\\x03\\x03\\x05\\x93\\x06Bl\\x9fb\\xd6\\xfeAJ35\\x8f\\xe8\\tWC9?[\\xd0\\xaf\\xc2\\xbe\\xef\\xbe\\x1d\\x89#H\\x02\\xf6\\x00\\xe2iJ\\x89\\xc2\\xdf\\xaeD\\x16\\x0e\\x02R\'"'}
+High traffic detected from 40.126.17.131
+{'src': '10.76.23.80', 'dst': '40.126.17.131', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '10.23.3.200', 'protocol': 'UDP', 'port': 53, 'payload': "b'\\xbd\\x0e\\x01\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\teu-mobile\\x06events\\x04data\\tmicrosoft\\x03com\\x00\\x00'"}
+High traffic detected from 10.76.23.80
+{'src': '10.76.11.47', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x10_spotify-connect\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01'"}
+{'src': '10.23.3.200', 'dst': '10.76.23.80', 'protocol': 'UDP', 'port': 59179, 'payload': "b'\\xbd\\x0e\\x81\\x80\\x00\\x01\\x00\\x03\\x00\\x00\\x00\\x00\\teu-mobile\\x06events\\x04data\\tmicrosoft\\x03com\\x00\\x00'"}
+{'src': '10.76.23.80', 'dst': '13.69.239.73', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '13.69.239.73', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58815, 'payload': "b''"}
+Empty payload from 13.69.239.73
+{'src': '10.76.23.80', 'dst': '13.69.239.73', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '13.69.239.73', 'protocol': 'TCP', 'port': 443, 'payload': 'b\'\\x16\\x03\\x01\\x01\\xce\\x01\\x00\\x01\\xca\\x03\\x03\\xed\\x9e\\xa6#\\x13\\n\\xc3\\x1f\\xe9\\x99\\xf0\\xdc\\xcc\\x05\\x15}\\xd3"d\\x01,\\xcaYD\\xb9\\xdc\\xe3\\xf6\\xff\\xb3K# @\\x9b\\xb6\\x16-\\xe0\''}
+High traffic detected from 10.76.23.80
+{'src': '13.69.239.73', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58815, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '10.76.23.80', 'dst': '40.126.17.131', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '10.76.32.210', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x84\\x00\\x00\\x00\\x00\\x02\\x00\\x00\\x00\\x02\\x01D\\x014\\x012\\x01B\\x014\\x018\\x010\\x017\\x014\\x018\\x015\\x019\\x011\\x01D\\x018\\x010\\x010\\x010\\x010'"}
+{'src': '10.76.31.201', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x10_spotify-connect\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01'"}
+{'src': '10.76.23.201', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x84\\x00\\x00\\x00\\x00\\x08\\x00\\x00\\x00\\x04\\x015\\x019\\x01E\\x01F\\x017\\x012\\x01E\\x01F\\x01F\\x01F\\x01E\\x017\\x011\\x016\\x014\\x01D\\x010\\x010\\x010'"}
+{'src': '13.69.239.73', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58815, 'payload': "b'\\x16\\x03\\x03\\x00\\xbb\\x02\\x00\\x00\\xb7\\x03\\x03\\xf6\\x07\\xec\\x9fP\\x9e\\x97\\x8d\\xa5S\\xe2\\x90c\\xa0\\xc2\\xf4V\\xcatS\\\\\\x12\\xd9\\n|x\\xe8=\\t\\x08\\xa3\\x9e @\\x9b\\xb6\\x16-\\xe0'"}
+{'src': '10.76.23.80', 'dst': '13.69.239.73', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '13.69.239.73', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58815, 'payload': "b'\\xeb7N\\x90\\x06#\\xb0\\xd4P\\xe0z^N\\xca\\xaa\\x9c\\xb3?\\x02@7-\\x9e\\xbe\\x8f\\x16AC:1\\xb7\\x18C&\\xd8\\xd03i\\xf2\\xb1\\x83\\xd4\\xc6-\\x91\\xd48\\xc7\\xf6\\x13'"}
+{'src': '13.69.239.73', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58815, 'payload': "b'\\xc6\\xf8>eT\\n\\x84\\x1b\\x1b\\xfb\\x13\\xa4\\xd7_\\x94\\xfb}\\xd5\\x83\\xa8\\x03K\\xb8\\xa2Dj\\x80\\xfa \\xed\\xb3\\r\\xec\\xef?\\x83\\x9a\\xaeg-\\x82\\xee\\xb3\\x8c\\xd6\\xb7Gr\\xb5:'"}
+{'src': '13.69.239.73', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58815, 'payload': "b'g9X\\xd2\\xab!\\x86\\xc5:\\xc8\\xddVN%O0#x~[\\xc3p\\xb3\\xadA\\x8a\\xd4\\xda\\xbd\\x05\\x1b$\\xd9\\xda\\x8a\\xad\\\\\\xf5\\x1b\\x94\\xea*\\x14q\\x91\\xd5)\\x16\\xda '"}
+{'src': '10.76.23.80', 'dst': '13.69.239.73', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '13.69.239.73', 'protocol': 'TCP', 'port': 443, 'payload': "b'\\x14\\x03\\x03\\x00\\x01\\x01\\x17\\x03\\x03\\x00E\\xda\\xcf\\xee\\x12\\xf2\\xaf\\xf1~\\r\\xf8\\n\\\\G\\x12\\xac\\x9c\\xed\\x9f\\xba\\xd8*Y\\xad\\xea\\x98P\\xb8\\x03~\\x97\\xb6\\x16cj\\x9f\\xfa\\x80I\\xcd'"}
+High traffic detected from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '13.69.239.73', 'protocol': 'TCP', 'port': 443, 'payload': "b'\\x17\\x03\\x03\\x02\\x0e\\xeb\\x9b\\x00\\x9eU\\xfa.\\x1dM\\x9c\\xba}\\x1d\\x90\\xf8\\xb9\\xd4\\xa3\\xc9d\\x16\\xf3\\x91u\\xf0\\xe4_\\x93\\xf7@Z\\x9e\\xc5HS\\x1a:P\\x03\\x04\\x92\\xb6\\x9c!\\xaa'"}
+High traffic detected from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '13.69.239.73', 'protocol': 'TCP', 'port': 443, 'payload': "b'\\x17\\x03\\x03\\x15c\\x02p\\xb7\\xbb\\x02\\x05n\\xc9TK0\\xa7\\x92K\\xd4I(\\xbf\\xeb\\x02\\xf8\\xb9\\xbb\\xffo\\xe6\\xaf{0Dj}\\xd0\\xa7\\xbd&\\x04\\xd1L\\x1f\\x18N^[\\xd9'"}
+High traffic detected from 10.76.23.80
+{'src': '13.69.239.73', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58815, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '13.69.239.73', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58815, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '13.69.239.73', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58815, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '13.69.239.73', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58815, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '13.69.239.73', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58815, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '13.69.239.73', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58815, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '10.76.30.98', 'dst': '10.76.255.255', 'protocol': 'UDP', 'port': 57621, 'payload': 'b"SpotUdp0\\x12\'\\x10\\xa3\\x84>7{\\x00\\x01\\x00\\x04H\\x95\\xc2\\x03\\\\\\xd6\\xb3\\xc4!\\x86*\\xde\\x07Y\\x9e{\\x9e\\x12i\\x034\\x8ak\\xa3"'}
+{'src': '10.76.23.80', 'dst': '13.89.179.11', 'protocol': 'TCP', 'port': 443, 'payload': 'b\'\\x17\\x03\\x03\\x01\\xbd6r\\x93\\x83b\\x9db{\\x84V\\xbe\\x04\\xe9V5|c\\x84>\\xf5\\nz\\xa1:%Q\\x1e\\x8cw\\xf7\\xbeks\\xe4\\xaaZ\\x04R\\xfe4y\\xe4"\\xee\\xbb\''}
+High traffic detected from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '13.89.179.11', 'protocol': 'TCP', 'port': 443, 'payload': "b'\\x17\\x03\\x03\\x03\\x19\\\\\\xf1\\xd2z\\x9a\\xd6]+\\x89\\xd3\\xce~\\xdcu\\xa5x\\xbf\\xbb|\\x1f\\xd7\\x12d\\xec\\xb6\\x85w\\xb8\\xd9\\x10\\xafH\\xa7VnH(\\xe4<\\xc7\\xc6\\r/\\x9c\\xe2'"}
+High traffic detected from 10.76.23.80
+{'src': '13.89.179.11', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58812, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+High traffic detected from 13.89.179.11
+{'src': '13.89.179.11', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58812, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+High traffic detected from 13.89.179.11
+{'src': '13.69.239.73', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58815, 'payload': 'b\'\\x17\\x03\\x03\\x00b$\\x7f\\xb4\\x81r;\\xc9\\x02\\xc4G\\x06\\x81(\\\\\\x1f"\\x9a\\x8a\\xbcW9\\xb6S6\\x9e$>Z\\x85F!\\xc6\\xceT\\r7\\\\\\xde\\x8d\\xe3\\xa3\\xd8\\xa9q\\x8d\''}
+{'src': '10.76.23.80', 'dst': '13.69.239.73', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '13.69.239.73', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58815, 'payload': "b'\\x17\\x03\\x03\\x01\\xe7\\xa4\\x9f\\xc3\\x05\\xc6\\xa7\\xd8@g\\x1b\\xd5\\xddB\\x9d\\xa9&\\x19\\xe0\\x17&\\x8d-\\xca\\x884\\xbfJ\\xdaU\\x1a9\\xdb^\\xf8\\x1b\\xc5\\xad\\xd9t61[\\x8b\\xbe9'"}
+{'src': '10.76.23.80', 'dst': '13.69.239.73', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '13.69.239.73', 'protocol': 'TCP', 'port': 443, 'payload': 'b"\\x17\\x03\\x03\\x01\\xc3L);\'\\xbe9\\xd3R\\x83\\x95`\\xc2\\x07\\x05\\xd8\\xd5\\x88P\\xb0\\xa0\\xc2qD\\xdf\\x9a\\xe1\\x95\\r\\xbfgJ\\x8b\\xd3\\xfe\\x9d\\xd4go$ox\\xd0$$\\x16"'}
+High traffic detected from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '13.69.239.73', 'protocol': 'TCP', 'port': 443, 'payload': 'b\'\\x17\\x03\\x03\\rQ!\\xff>\\x19\\x0b\\xab\\x02;\\x979\\xc5\\xa7h\\xe7\\xbd\\t\\xc3\\xcd\\t\\xbc"q\\xe6\\ndY \\xbf\\x01\\xb2\\x14\\x98\\xca\\x00\\xedh\\x055\\xac\\xb5\\xce]\\xce\\xa4\\x97\''}
+High traffic detected from 10.76.23.80
+{'src': '13.69.239.73', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58815, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '13.69.239.73', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58815, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '13.69.239.73', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58815, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '13.69.239.73', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58815, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '13.89.179.11', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58812, 'payload': "b'\\x17\\x03\\x03\\x00*\\x86\\xca\\x8c\\x03T\\xaa\\x8a\\x98\\x9d\\xc0\\x9b:\\xf9\\xc8\\xf1\\x08\\xb7\\x149\\xb0\\xb6?\\xaf\\x8b]!\\xd4\\xcc\\xd24\\xa3\\x98\\xdf\\xab\\xde\\x8a\\x939\\xb1Q\\x0b@'"}
+High traffic detected from 13.89.179.11
+{'src': '10.76.23.80', 'dst': '13.89.179.11', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '13.89.179.11', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58812, 'payload': "b'\\x17\\x03\\x03\\x02\\x0b\\xceg\\xc2\\xacy*h\\xda\\xfb:^vB\\xba\\xefF\\xc8B\\xfd\\xb4\\x06\\xe9\\x80\\x14\\x9b\\xa0\\x02\\x0fV\\x8b\\x88\\xf9\\x13\\xf5\\x8a\\xbf\\xe0\\xe9\\x94=!\\xd1\\xdcI\\x08'"}
+High traffic detected from 13.89.179.11
+{'src': '10.76.23.80', 'dst': '13.89.179.11', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '10.76.26.129', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x05\\x00\\x00\\x00\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_233637DE'"}
+{'src': '10.76.24.82', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x18\\x00\\x00\\x00\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_233637DE'"}
+{'src': '10.76.27.32', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x10_spotify-connect\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01'"}
+{'src': '10.76.26.121', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00?\\x00\\x00\\x00\\x04\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_674A0243'"}
+{'src': '13.69.239.73', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 58815, 'payload': "b'\\x17\\x03\\x03\\x01\\xbb=\\x05cq\\x9a>\\xf9\\x8cF5v6\\xf6m5FN\\xc3\\xc0g\\xe3\\xd2\\xba|t$\\xab\\x16J\\x03\\x88l\\xaa{\\\\\\xd7\\xa1\\xbc\\xde\\xab\\x99\\xd8\\x93\\xfeq'"}
+{'src': '10.76.23.80', 'dst': '13.69.239.73', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '10.76.32.210', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x03\\x00\\x0b\\x00\\x00\\x00\\x00\\x07_rdlink\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\x0f_companion-li'"}
+{'src': '10.76.26.214', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\t\\x00\\x00\\x00\\x03\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_CC1AD845'"}
+{'src': '10.76.32.210', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x84\\x00\\x00\\x00\\x00\\x06\\x00\\x00\\x00\\x02$B06DFDB9-51C5-4933-8B6A-B3A88DD23632\\x07'"}
+{'src': '10.76.23.80', 'dst': '10.23.3.200', 'protocol': 'UDP', 'port': 53, 'payload': "b'\\x0b7\\x01\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\twestus2-0\\x02in\\x13applicationinsights\\x05azur'"}
+High traffic detected from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '10.23.3.200', 'protocol': 'UDP', 'port': 53, 'payload': "b'u\\xe6\\x01\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x06update\\x04code\\x0cvisualstudio\\x03com\\x00\\x00A\\x00\\x01'"}
+High traffic detected from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '10.23.3.200', 'protocol': 'UDP', 'port': 53, 'payload': "b'N\\xe3\\x01\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x06update\\x04code\\x0cvisualstudio\\x03com\\x00\\x00\\x01\\x00\\x01'"}
+High traffic detected from 10.76.23.80
+{'src': '10.23.3.200', 'dst': '10.76.23.80', 'protocol': 'UDP', 'port': 55561, 'payload': "b'N\\xe3\\x81\\x80\\x00\\x01\\x00\\x03\\x00\\x00\\x00\\x00\\x06update\\x04code\\x0cvisualstudio\\x03com\\x00\\x00\\x01\\x00\\x01\\xc0\\x0c\\x00\\x05'"}
+{'src': '10.76.23.80', 'dst': '150.171.110.83', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '150.171.110.83', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 59954, 'payload': "b''"}
+Empty payload from 150.171.110.83
+{'src': '10.76.23.80', 'dst': '150.171.110.83', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '150.171.110.83', 'protocol': 'TCP', 'port': 443, 'payload': "b'\\x16\\x03\\x01\\x08D\\x01\\x00\\x08@\\x03\\x03\\xd2\\x9d\\x91jj\\xd4\\x98\\xf9\\xea|6sh\\xe7\\xfd\\xc6]\\n\\x9c\\x10k72\\xdec\\xc8\\xa2WJK\\x8cG \\x170\\xc8\\x88b8'"}
+High traffic detected from 10.76.23.80
+{'src': '10.23.3.200', 'dst': '10.76.23.80', 'protocol': 'UDP', 'port': 64890, 'payload': "b'u\\xe6\\x81\\x80\\x00\\x01\\x00\\x02\\x00\\x00\\x00\\x00\\x06update\\x04code\\x0cvisualstudio\\x03com\\x00\\x00A\\x00\\x01\\xc0\\x0c\\x00\\x05'"}
+{'src': '10.76.31.201', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x04_ipp\\x04_tcp\\x05local\\x00\\x00\\x0c\\x80\\x01'"}
+{'src': '150.171.110.83', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 59954, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '150.171.110.83', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 59954, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '150.171.110.83', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 59954, 'payload': "b'\\x16\\x03\\x03\\x00X\\x02\\x00\\x00T\\x03\\x03\\xcf!\\xadt\\xe5\\x9aa\\x11\\xbe\\x1d\\x8c\\x02\\x1ee\\xb8\\x91\\xc2\\xa2\\x11\\x16z\\xbb\\x8c^\\x07\\x9e\\t\\xe2\\xc8\\xa83\\x9c \\x170\\xc8\\x88b8'"}
+{'src': '10.76.23.80', 'dst': '150.171.110.83', 'protocol': 'TCP', 'port': 443, 'payload': "b'\\x14\\x03\\x03\\x00\\x01\\x01\\x16\\x03\\x03\\x03\\x9c\\x01\\x00\\x03\\x98\\x03\\x03\\xd2\\x9d\\x91jj\\xd4\\x98\\xf9\\xea|6sh\\xe7\\xfd\\xc6]\\n\\x9c\\x10k72\\xdec\\xc8\\xa2WJK\\x8cG '"}
+High traffic detected from 10.76.23.80
+{'src': '10.76.31.201', 'dst': '255.255.255.255', 'protocol': 'UDP', 'port': 10004, 'payload': "b'<XML><PacketType>Request</PacketType>\\n<ProductName'"}
+{'src': '10.76.31.201', 'dst': '10.76.255.255', 'protocol': 'UDP', 'port': 22222, 'payload': "b'STR_BCAST\\x00\\x00\\x00\\x00\\x00\\x00\\x00RQ1.0.0\\x00\\x00\\x1cd1'"}
+{'src': '10.76.31.201', 'dst': '10.76.255.255', 'protocol': 'UDP', 'port': 3289, 'payload': "b'EPSONQ\\x03\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '10.76.31.201', 'dst': '10.76.255.255', 'protocol': 'UDP', 'port': 22222, 'payload': "b'STR_BCAST\\x00\\x00\\x00\\x00\\x00\\x00\\x00RQ1.0.0\\x00\\x00\\x1cd1'"}
+{'src': '150.171.110.83', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 59954, 'payload': "b'\\x16\\x03\\x03\\x00\\x9b\\x02\\x00\\x00\\x97\\x03\\x03\\xe2\\x96\\xc5V\\xb6\\x9f\\xb46\\x9c\\xd0G\\x85\\xbc4*8\\x97\\x1d\\x8f\\x8f\\xa7\\xaf\\xaa\\xd7n\\x841\\xae\\x00xV\\xc6 \\x170\\xc8\\x88b8'"}
+{'src': '150.171.110.83', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 59954, 'payload': "b'\\x0bHG\\x05ic\\x82\\xc0A\\xb6\\xdd\\x9e1\\xd7\\x88?\\x13Z\\xb62\\xeb\\xc3\\x0fqwz\\xa0qm\\xce\\x06\\xd4\\xf4\\xc7q\\xf2\\x82f\\xf8M-\\xcb\\xcb\\x14v\\xa3f\\xf8\\x10\\xd4'"}
+{'src': '150.171.110.83', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 59954, 'payload': "b'\\x82\\xfd\\xaca\\xbf\\xc0Ux\\x9e\\xbf\\xa8z\\x13\\xc8\\x1e\\x19E\\x88\\x1f\\xbc\\xe4\\xf4\\\\#\\x0b\\xe9~\\x99Z\\xa6\\xeeY\\x03t\\x0e5w\\x92\\xc5\\xb5\\xda\\x14\\x0b<\\x8c18`\\xd2A'"}
+{'src': '150.171.110.83', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 59954, 'payload': 'b"\\x17\\x03\\x03\\x01\\x19AhSF8\\xb4o\\xc3\\x8a,\\xddB\\xb6\\x17\\x9a3\\xf6)\\xc2\\x1f/\\x8f\\nW\\xa0aj\\x82\\xf2\\x88]\\x19\\xc6U\\xdeP\\xe4\'\\x84\\\\\\xf0S#\\x10\\xb7"'}
+{'src': '10.76.23.80', 'dst': '150.171.110.83', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '150.171.110.83', 'protocol': 'TCP', 'port': 443, 'payload': "b'\\x17\\x03\\x03\\x00E\\x8e$\\x1e,\\xeb\\xfb\\xf1\\x12\\x1d7y\\x1d6M\\xea\\x00\\xe8\\xa2\\x1c`\\xfa\\xaf\\xc4\\x8e\\xf3G\\x97\\x06\\x9b\\x85\\xc0l\\xabh\\xc5\\xe57\\xf2!\\x11\\xf6\\xd9\\x06\\x00U'"}
+High traffic detected from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '150.171.110.83', 'protocol': 'TCP', 'port': 443, 'payload': "b'\\x17\\x03\\x03\\x00W\\xdd\\xae\\xda\\x8f\\xa2\\x8f\\x03\\x0f\\x99\\x9c\\xd9a\\x11\\xa9\\x9d\\xc3M\\xae\\xcdd/g\\xc8l\\x1c\\x18?cp\\x85\\x80 h\\x9b\\xa8,\\xd2/C\\x9e\\xacQ\\x9d[\\xb0'"}
+High traffic detected from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '150.171.110.83', 'protocol': 'TCP', 'port': 443, 'payload': "b'\\x17\\x03\\x03\\x00\\xf7\\x8b\\xaaY2\\x1d4!\\x97\\x9a\\x13xp\\x8f\\xe5\\xf1\\x06\\xcd%\\x95\\xbc\\x05\\x06Q\\x10N\\xcb\\xc4\\xb7Ju\\xd5J\\xa1u\\x8a\\x12a)Vl\\x14oZ\\\\8'"}
+High traffic detected from 10.76.23.80
+{'src': '150.171.110.83', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 59954, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '150.171.110.83', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 59954, 'payload': "b'\\x17\\x03\\x03\\x01*luT\\xcf\\xa2-\\x13\\xc6zG\\x07.\\xd43\\xc57\\xfc\\xd7\\xb7\\xdc\\xc5\\x86\\x07\\xfe\\x01l\\x86\\x8d\\xe9\\x9c]zV\\x90\\x90\\x8a\\xa2\\xb4g\\x11\\x08~e]\\xb3'"}
+{'src': '150.171.110.83', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 59954, 'payload': 'b"\\x17\\x03\\x03\\x009 \\xb8)\\x83g\\x7f\\xc4\\x17\\xaaE\\x1f\\xb5\\xdb\'\\x0c\\x97\\x91;\\xc1y\\xb8\\xde,<\\x13;dA\\x02\\xcai\\x11\\x9b\\xa1g\\xa0\\x906\\x1a\\x075/\\x1b\\xd0n"'}
+{'src': '10.76.23.80', 'dst': '150.171.110.83', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '150.171.110.83', 'protocol': 'TCP', 'port': 443, 'payload': 'b"\\x17\\x03\\x03\\x00\\x1a\\\\\\x87\\x86\\x8d\\x9b\\x8dc[\\x98\\xfc\'\\xfd\\x8e\\xf6s\\xc7B\\x01\\xeaF\\x07\\xa4\\tf\\x01\\xca"'}
+High traffic detected from 10.76.23.80
+{'src': '150.171.110.83', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 59954, 'payload': "b'\\x17\\x03\\x03\\x00\\x1a\\xe4\\xa8\\xa41\\xd6A\\t\\xd1V[\\xea[-\\xf0\\xf5\\x15?\\x008x\\xd8\\x0eh]\\xa4\\xca'"}
+{'src': '10.76.31.201', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x04_ipp\\x04_tcp\\x05local\\x00\\x00\\x0c\\x80\\x01'"}
+{'src': '10.76.31.201', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x06_uscan\\x04_tcp\\x05local\\x00\\x00\\x0c\\x80\\x01'"}
+{'src': '10.76.31.201', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x07_uscans\\x04_tcp\\x05local\\x00\\x00\\x0c\\x80\\x01'"}
+{'src': '10.23.3.200', 'dst': '10.76.23.80', 'protocol': 'UDP', 'port': 59179, 'payload': "b'\\x0b7\\x81\\x80\\x00\\x01\\x00\\x04\\x00\\x00\\x00\\x00\\twestus2-0\\x02in\\x13applicationinsights\\x05azur'"}
+{'src': '10.76.23.80', 'dst': '20.9.155.156', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '20.9.155.156', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 59955, 'payload': "b''"}
+Empty payload from 20.9.155.156
+{'src': '10.76.23.80', 'dst': '20.9.155.156', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '20.9.155.156', 'protocol': 'TCP', 'port': 443, 'payload': "b'\\x16\\x03\\x01\\x02\\x00\\x01\\x00\\x01\\xfc\\x03\\x03\\xb9\\xfe\\xeb\\xef\\x874E\\xf2\\x0f>p|\\x08e{\\x02\\xc7\\xf8\\x1f\\xa4\\xd9\\x9b\\x83w^\\\\?B\\xee3\\\\\\xa4 \\x9d.Y\\xe4\\xee\\xc1'"}
+High traffic detected from 10.76.23.80
+{'src': '20.9.155.156', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 59955, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '10.76.31.201', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x05_ipps\\x04_tcp\\x05local\\x00\\x00\\x0c\\x80\\x01'"}
+{'src': '150.171.110.83', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 59954, 'payload': "b'\\x17\\x03\\x03\\x01NN\\xac\\x99\\xcbnfG\\xd2\\xaakCL}B\\r\\x8d\\xde1\\x10\\x94\\x9c\\xc4\\xb0S\\xc5\\xf9\\xeb\\xe8\\xee\\x9fJtK\\x9bf\\x06\\xf3\\x13B\\x13\\xb4X,\\xa4\\xfa'"}
+{'src': '10.76.23.80', 'dst': '150.171.110.83', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '10.76.25.236', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x1f\\x00\\x00\\x00\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_233637DE'"}
+{'src': '10.76.30.117', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x088e9c07dc\\x04_sub\\x0e_apple-mobdev2\\x04_tcp\\x05loc'"}
+{'src': '10.76.23.198', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\t\\x00\\x00\\x00\\x03\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_674A0243'"}
+{'src': '10.76.23.80', 'dst': '10.23.3.200', 'protocol': 'UDP', 'port': 53, 'payload': "b'9)\\x01\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x03ecs\\x06office\\x03com\\x00\\x00\\x01\\x00\\x01'"}
+High traffic detected from 10.76.23.80
+{'src': '10.23.3.200', 'dst': '10.76.23.80', 'protocol': 'UDP', 'port': 59179, 'payload': "b'9)\\x81\\x80\\x00\\x01\\x00\\x06\\x00\\x00\\x00\\x00\\x03ecs\\x06office\\x03com\\x00\\x00\\x01\\x00\\x01\\xc0\\x0c\\x00\\x05\\x00\\x01\\x00\\x00\\x00\\xec\\x00\\x1f\\x03ecs\\x06o'"}
+{'src': '10.76.23.80', 'dst': '52.123.129.14', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '52.123.129.14', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 59956, 'payload': "b''"}
+Empty payload from 52.123.129.14
+{'src': '10.76.23.80', 'dst': '52.123.129.14', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '52.123.129.14', 'protocol': 'TCP', 'port': 443, 'payload': 'b\'\\x16\\x03\\x01\\x01\\xb9\\x01\\x00\\x01\\xb5\\x03\\x03\\xff\\nPI4\\x8d\\x82r\\xd5%\\xccS\\xa3\\x17\\x1ft\\xfas\\xbcK\\xbb*\\xd3`"\\x94B1v\\x8d\\xfd\\\' \\xd3m\\xf3"\\x98\\x97\''}
+High traffic detected from 10.76.23.80
+{'src': '10.76.32.254', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00A\\x00\\x00\\x00\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_233637DE'"}
+{'src': '52.123.129.14', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 59956, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '52.123.129.14', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 59956, 'payload': 'b\'\\x16\\x03\\x03\\x00\\xbb\\x02\\x00\\x00\\xb7\\x03\\x03Q\\x97$\\x80Nj\\x12\\x98o\\xb7d\\x06\\x91\\x16\\x08|N\\x1eU\\x7fsL\\x88{\\x98\\x9d\\x8d\\xac\\xdc\\xb9\\x9b\\x9b \\xd3m\\xf3"\\x98\\x97\''}
+{'src': '10.76.23.80', 'dst': '52.123.129.14', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '52.123.129.14', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 59956, 'payload': "b'\\x16*\\xd1S\\xa6\\x8fE\\x10L\\x16\\x1c\\n\\xd4Zs\\xfa\\x86\\xdax\\x84\\xf6\\xa1\\xca\\xb3\\x80\\xfey\\x8d|\\xcbr\\xe2y\\x9c=s\\xffvzjJ\\x05\\xbf\\x11\\x1dm\\xff\\x0e\\x03\\x11'"}
+{'src': '10.76.23.80', 'dst': '52.123.129.14', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '52.123.129.14', 'protocol': 'TCP', 'port': 443, 'payload': 'b\'\\x14\\x03\\x03\\x00\\x01\\x01\\x17\\x03\\x03\\x00E\\xf2\\xf7l\\x90\\xd3*\\x9d\\xed~\\xe7\\xe1\\xee}\\xb9Y\\xa1*\\xaf\\xd1\\\'\\x97S\\xf7\\xa0\\xe2\\x86\\x9c\\xc7\\xafN\\xd7\\xa2"\\xb4"\\x1ay\\xc8H\''}
+High traffic detected from 10.76.23.80
+{'src': '10.76.13.227', 'dst': '10.76.255.255', 'protocol': 'UDP', 'port': 57621, 'payload': "b'SpotUdp0\\x03<o\\x80\\xdcU\\x08\\x8c\\x00\\x01\\x00\\x00B\\x96\\xac\\xc7\\xc3\\xcb\\xf4lQv\\x15\\xfa-\\xa25\\xd1\\x9bRwo'"}
+{'src': '52.123.129.14', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 59956, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '52.123.129.14', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 59956, 'payload': "b'\\x17\\x03\\x03\\x01\\xc6e@\\x83r\\xd4\\x93aP\\x04\\x16\\x151&\\xb8\\x83\\xf1\\x1a;\\xc8\\xb5\\x15\\x85\\x81v\\xed\\xd1qA\\xe82\\xf5\\xb3\\x9f\\x84\\xe3\\x86z\\x08\\x17\\xcd\\xff\\xd9\\x83\\x13\\xec'"}
+{'src': '10.76.23.80', 'dst': '52.123.129.14', 'protocol': 'TCP', 'port': 443, 'payload': 'b"\\x17\\x03\\x03\\x01\'4\\xa0C\\x95\\x13\\xfc\\xe0\\xdbBg\\xb4\\xc7\\x05\\x88\\x0c\\xbe\\r&\\x9fTi\\xe6\\xd2c\\x85\\x03\\x02\\xa6\'o\\x8af\\xe2\\xac\\x0c3\\xd6\\x0f&Y\\xe2\\xd2\\x0b.\\x14"'}
+High traffic detected from 10.76.23.80
+{'src': '52.123.129.14', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 59956, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '52.123.129.14', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 59956, 'payload': "b'\\x17\\x03\\x03\\x03i4\\xe3\\x80\\x86Q\\xcf\\xa6\\x13\\x82\\x9aa\\x9b\\x17Hi\\x95~\\xd3i\\xab\\x95\\xcd\\xa2x\\xd4\\x14~\\xe3u\\x08\\xa7E\\xc4@n\\xa3\\x806^\\x02y\\xc8\\x83\\x04\\x04'"}
+{'src': '10.76.23.80', 'dst': '224.0.0.22', 'protocol': 'OTHER', 'port': None, 'payload': ''}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '10.76.31.201', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x10_spotify-connect\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01'"}
+{'src': '20.9.155.156', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 59955, 'payload': "b'\\x16\\x03\\x03\\x00X\\x02\\x00\\x00T\\x03\\x03\\xcf!\\xadt\\xe5\\x9aa\\x11\\xbe\\x1d\\x8c\\x02\\x1ee\\xb8\\x91\\xc2\\xa2\\x11\\x16z\\xbb\\x8c^\\x07\\x9e\\t\\xe2\\xc8\\xa83\\x9c \\x9d.Y\\xe4\\xee\\xc1'"}
+{'src': '10.76.23.80', 'dst': '20.9.155.156', 'protocol': 'TCP', 'port': 443, 'payload': "b'\\x14\\x03\\x03\\x00\\x01\\x01\\x16\\x03\\x03\\x01U\\x01\\x00\\x01Q\\x03\\x03\\xb9\\xfe\\xeb\\xef\\x874E\\xf2\\x0f>p|\\x08e{\\x02\\xc7\\xf8\\x1f\\xa4\\xd9\\x9b\\x83w^\\\\?B\\xee3\\\\\\xa4 '"}
+High traffic detected from 10.76.23.80
+{'src': '20.9.155.156', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 59955, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '10.76.23.80', 'dst': '239.255.255.250', 'protocol': 'UDP', 'port': 1900, 'payload': "b'M-SEARCH * HTTP/1.1\\r\\nHost: 239.255.255.250:1900\\r\\nS'"}
+High traffic detected from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '52.123.129.14', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '239.255.255.250', 'protocol': 'UDP', 'port': 1900, 'payload': "b'M-SEARCH * HTTP/1.1\\r\\nHost: 239.255.255.250:1900\\r\\nS'"}
+High traffic detected from 10.76.23.80
+{'src': '10.76.31.201', 'dst': '239.255.255.250', 'protocol': 'UDP', 'port': 3702, 'payload': 'b\'<?xml version="1.0" encoding="utf-8"?><soap:Envelo\''}
+{'src': '10.76.25.104', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x01\\x00\\x00\\x00\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x80\\x01\\t_233637DE'"}
+{'src': '10.76.25.104', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x01\\x00\\x00\\x00\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x80\\x01\\t_233637DE'"}
+{'src': '10.76.26.105', 'dst': '239.255.255.250', 'protocol': 'UDP', 'port': 1900, 'payload': "b'M-SEARCH * HTTP/1.1\\r\\nHOST: 239.255.255.250:1900\\r\\nM'"}
+{'src': '10.76.11.47', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x10_spotify-connect\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01'"}
+{'src': '10.76.11.47', 'dst': '239.255.255.250', 'protocol': 'UDP', 'port': 1900, 'payload': "b'M-SEARCH * HTTP/1.1\\r\\nHOST: 239.255.255.250:1900\\r\\nM'"}
+{'src': '10.76.14.75', 'dst': '255.255.255.255', 'protocol': 'UDP', 'port': 5246, 'payload': "b'\\x00\\x10\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x01\\x02\\x01\\xd4\\x00\\x00\\x14\\x00\\x01\\x00\\x00&\\x00V\\x00\\x00c\\xa2\\x00\\x00\\x00 560-WW\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '10.76.23.80', 'dst': '239.255.255.250', 'protocol': 'UDP', 'port': 1900, 'payload': "b'M-SEARCH * HTTP/1.1\\r\\nHost: 239.255.255.250:1900\\r\\nS'"}
+High traffic detected from 10.76.23.80
+{'src': '10.76.30.59', 'dst': '239.255.255.250', 'protocol': 'UDP', 'port': 2200, 'payload': "b'RESPONSE * HTTP/1.1\\r\\nDATE:2026-04-19 17:23:56\\r\\ncom'"}
+{'src': '10.76.31.201', 'dst': '239.255.255.250', 'protocol': 'UDP', 'port': 1900, 'payload': "b'M-SEARCH * HTTP/1.1\\r\\nHOST: 239.255.255.250:1900\\r\\nM'"}
+{'src': '20.9.155.156', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 59955, 'payload': "b'\\x16\\x03\\x03\\x00\\xbb\\x02\\x00\\x00\\xb7\\x03\\x03n\\xd5\\xa7\\xac\\x1e]#\\x0f\\x0f3\\xa9\\xde\\x15`8p\\xaaU\\x11\\xb0\\xc2\\x9d\\xc7\\xd8L\\x1f}3GE\\xc0_ \\x9d.Y\\xe4\\xee\\xc1'"}
+{'src': '20.9.155.156', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 59955, 'payload': 'b"\\xfb\\xa6\\xb9\\xf3\\xee\\x031\\x95\\x92\\xd1\\x13\\x9dF\\xd1k!w\\xf8\\x9f?+\\x013\\xaa\\xb6\'\\x8e|\\x1aK\\xa3\\xa0X\\xba\\xcd\\x98Zc\\x84\\xc1\\x13@K\\x860\\x99y\\x85\\x0b\\x0c"'}
+{'src': '20.9.155.156', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 59955, 'payload': "b':\\x8f$M\\xee!]f; ^x\\xe7\\x17\\xc28>\\x0b\\xf0NO\\x1f*I\\xe4\\x9d\\xf6\\x05\\xad\\xff<\\x92\\x98_\\xfcV\\x13\\x1aEA\\x820f\\xe5\\x1e9\\xdf\\x0b\\x85\\x11'"}
+{'src': '10.76.23.80', 'dst': '20.9.155.156', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '20.9.155.156', 'protocol': 'TCP', 'port': 443, 'payload': "b'\\x17\\x03\\x03\\x00E\\x1a\\x14\\xdc\\xef\\x12\\xabQ\\xf4 Z~\\xfd\\xa0\\x883\\xb9\\x1bN\\xf2gx2A$\\xd7\\xd81@50)2\\xb6lR\\xaf\\x13\\x03b\\xfe\\xa6Y\\xbff4'"}
+High traffic detected from 10.76.23.80
+{'src': '20.9.155.156', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 59955, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '20.9.155.156', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 59955, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '20.9.155.156', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 59955, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '10.76.31.201', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x04_ipp\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01'"}
+{'src': '10.76.31.201', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x06_uscan\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01'"}
+{'src': '10.76.31.201', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x07_uscans\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01'"}
+{'src': '10.76.31.201', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x05_ipps\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01'"}
+{'src': '10.76.23.80', 'dst': '10.23.3.200', 'protocol': 'UDP', 'port': 53, 'payload': "b'\\xc7>\\x01\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x11copilot-telemetry\\x11githubusercontent\\x03c'"}
+High traffic detected from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '224.0.0.22', 'protocol': 'OTHER', 'port': None, 'payload': ''}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '10.23.3.200', 'dst': '10.76.23.80', 'protocol': 'UDP', 'port': 59179, 'payload': "b'\\xc7>\\x81\\x80\\x00\\x01\\x00\\x03\\x00\\x00\\x00\\x00\\x11copilot-telemetry\\x11githubusercontent\\x03c'"}
+{'src': '10.76.23.80', 'dst': '140.82.113.21', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '140.82.113.21', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 59959, 'payload': "b''"}
+Empty payload from 140.82.113.21
+{'src': '10.76.23.80', 'dst': '140.82.113.21', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '140.82.113.21', 'protocol': 'TCP', 'port': 443, 'payload': "b'\\x16\\x03\\x01\\x02\\x00\\x01\\x00\\x01\\xfc\\x03\\x03\\x16\\xab}q\\xcd5yN\\x99\\xfb\\x83\\xde\\x97\\x80#0\\x8d\\x0e\\xbb\\xc9\\x04z\\xd5\\x84\\xfb\\xc0\\xd5)\\x96\\x0b\\xd4\\x95 S]\\xf7\\x03\\xcd\\xe6'"}
+High traffic detected from 10.76.23.80
+{'src': '140.82.113.21', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 59959, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '20.9.155.156', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 59955, 'payload': "b'\\x17\\x03\\x03\\x00b\\x9cx:\\x9a\\xef\\xff\\xcd\\x04 \\xf1\\x93\\x13+$\\x8b!af\\xe7p\\x0c\\xccs\\x9b\\xcb\\xa1\\xf7j\\xb9U\\xda\\xb7\\x13\\xe1\\x8c2\\x04\\x0c-\\xee\\xe5\\xb9\\x8d{\\xf3'"}
+{'src': '10.76.32.216', 'dst': '239.255.255.250', 'protocol': 'OTHER', 'port': None, 'payload': ''}
+Empty payload from 10.76.32.216
+{'src': '10.76.23.80', 'dst': '20.9.155.156', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '20.9.155.156', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 59955, 'payload': "b'\\x17\\x03\\x03\\x01X\\xfb\\xf4\\x94\\xe1\\xc00,/\\xafJX*7\\x84\\x126\\x18\\xc7\\xe7\\x02\\xf7\\xf6\\xc5_\\x8e\\xac\\xfdK\\xbd\\xdc\\xf8\\xd1S\\xcc\\x18i\\xf5\\x06\\xcfE\\x88\\xdf\\xc0\\x8by'"}
+{'src': '20.9.155.156', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 59955, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '10.76.23.80', 'dst': '20.9.155.156', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '20.9.155.156', 'protocol': 'TCP', 'port': 443, 'payload': "b'\\x17\\x03\\x03\\x00\\x13\\xd6`\\xe9\\x1dTNrI&\\xb8\\x92S\\xddz\\xa5\\n\\xd0mt'"}
+High traffic detected from 10.76.23.80
+{'src': '10.76.23.80', 'dst': '20.9.155.156', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '20.9.155.156', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 59955, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '20.9.155.156', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 59955, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '10.76.26.126', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x05\\x00\\x00\\x00\\x03\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_674A0243'"}
+{'src': '10.76.29.180', 'dst': '239.255.255.250', 'protocol': 'UDP', 'port': 1900, 'payload': "b'M-SEARCH * HTTP/1.1\\r\\nHOST: 239.255.255.250:1900\\r\\nM'"}
+{'src': '10.76.1.245', 'dst': '239.255.255.250', 'protocol': 'UDP', 'port': 1900, 'payload': "b'M-SEARCH * HTTP/1.1\\r\\nHOST: 239.255.255.250:1900\\r\\nM'"}
+{'src': '10.76.27.32', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x10_spotify-connect\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01'"}
+{'src': '10.76.27.32', 'dst': '239.255.255.250', 'protocol': 'UDP', 'port': 1900, 'payload': "b'M-SEARCH * HTTP/1.1\\r\\nHOST: 239.255.255.250:1900\\r\\nM'"}
+{'src': '10.76.31.201', 'dst': '239.255.255.250', 'protocol': 'UDP', 'port': 3702, 'payload': 'b\'<?xml version="1.0" encoding="utf-8"?><soap:Envelo\''}
+{'src': '10.76.27.89', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x13\\x00\\x00\\x00\\x04\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_674A0243'"}
+{'src': '10.76.1.251', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x10\\x00\\x00\\x00\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_233637DE'"}
+{'src': '10.76.25.104', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x02\\x00\\x00\\x00\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_233637DE'"}
+{'src': '10.76.6.36', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\r\\x00\\x00\\x00\\x04\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_674A0243'"}
+{'src': '140.82.113.21', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 59959, 'payload': "b'\\x16\\x03\\x03\\x00z\\x02\\x00\\x00v\\x03\\x03\\xecL\\x184vT\\xa0\\x80\\x1c\\xa4\\xdb\\x94\\xbd\\xbb\\x83\\xc1N\\xa9q\\x879x\\x07\\xecK>\\x83\\xcf\\xd6\\xf13\\xf5 S]\\xf7\\x03\\xcd\\xe6'"}
+{'src': '140.82.113.21', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 59959, 'payload': "b'\\x14\\x0f\\x11\\x84?Ox\\xa3\\t\\x11H\\xb3\\xbb#\\x97\\x8b\\xad<w\\x998\\xa3\\x07\\x959\\xeb\\x89[\\xa2\\x05<\\xc84D\\xbe\\xf6\\xec\\x9b\\xd9d\\xf5\\xb3\\x18\\x17\\xa3q\\xc7\\x8c\\x04\\x14'"}
+{'src': '10.76.23.80', 'dst': '140.82.113.21', 'protocol': 'TCP', 'port': 443, 'payload': "b''"}
+High traffic detected from 10.76.23.80
+Empty payload from 10.76.23.80
+{'src': '140.82.113.21', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 59959, 'payload': "b'\\x89\\xd1\\xaa\\n\\xe3\\xb6\\xa6\\x99\\xc3\\x0f\\x04\\x9b\\x08\\xb61\\x9a\\xac\\xbe~J\\xb7>}?\\x87}\\xd3\\xa4\\xf3\\xd2\\xbe\\xeew\\xb7q5.\\x11}+g\\xe4\\x9a\\x91-\\x85y\\x16\\xb1i'"}
+{'src': '10.76.23.80', 'dst': '140.82.113.21', 'protocol': 'TCP', 'port': 443, 'payload': 'b\'\\x14\\x03\\x03\\x00\\x01\\x01\\x17\\x03\\x03\\x005\\xa7\\xc2\\xc2u\\xc9\\xd2\\x86\\x1b\\xa1\\x7f\\xf4-Xx\\x94s""o9\\xc0\\x99\\x10\\xa6\\x17\\xb3\\xd6\\xd8\\xfa!o\\xb6\\xb6U\\xa9\\x17\\xe2\\xd1\\x0c\''}
+High traffic detected from 10.76.23.80
+{'src': '140.82.113.21', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 59959, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '140.82.113.21', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 59959, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '140.82.113.21', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 59959, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '10.76.11.61', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x03\\x00\\x00\\x00\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_233637DE'"}
+{'src': '10.76.26.105', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00E\\x00\\x00\\x00\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_233637DE'"}
+{'src': '10.76.32.214', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\t_CC32E753\\x04_sub\\x0b_googlecast\\x04_tcp\\x05local'"}
+{'src': '10.76.14.45', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x15\\x00\\x00\\x00\\x03\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_674A0243'"}
+{'src': '10.76.23.80', 'dst': '23.202.229.22', 'protocol': 'UDP', 'port': 443, 'payload': "b'VE\\x08e\\xe2\\x90\\x80\\x8a0\\nC\\xf7\\x87-\\xc9\\x99\\x0b\\x89hi7k\\xbdR)\\xbb\\xe1sQ'"}
+{'src': '0.0.0.0', 'dst': '255.255.255.255', 'protocol': 'UDP', 'port': 67, 'payload': 'b\'\\x01\\x01\\x06\\x00\\xea\\xf98"\\x00\\x03\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\xf4N\\xb4\\x15\\xad\\r\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\''}
+{'src': '10.76.25.96', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x02\\x00\\x00\\x00\\x03\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_674A0243'"}
+{'src': '23.202.229.22', 'dst': '10.76.23.80', 'protocol': 'UDP', 'port': 63264, 'payload': "b'@/\\x15\\xb7\\xcaR\\xaa;Z\\xd2G\\x16^\\xdc&\\xa0\\xef\\xd0&\\x0b\\x17M\\xe8m'"}
+{'src': '10.76.14.67', 'dst': '255.255.255.255', 'protocol': 'UDP', 'port': 5246, 'payload': "b'\\x00\\x10\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x01\\x03\\x01\\xd4\\x00\\x00\\x14\\x00\\x01\\x00\\x00&\\x00V\\x00\\x00c\\xa2\\x00\\x00\\x00 560-WW\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '10.76.22.204', 'dst': '239.255.255.250', 'protocol': 'UDP', 'port': 1900, 'payload': "b'M-SEARCH * HTTP/1.1\\r\\nHOST: 239.255.255.250:1900\\r\\nM'"}
+{'src': '10.76.24.247', 'dst': '239.255.255.250', 'protocol': 'UDP', 'port': 1900, 'payload': "b'M-SEARCH * HTTP/1.1\\r\\nHOST: 239.255.255.250:1900\\r\\nM'"}
+{'src': '10.76.31.197', 'dst': '239.255.255.250', 'protocol': 'UDP', 'port': 1900, 'payload': "b'M-SEARCH * HTTP/1.1\\r\\nHOST: 239.255.255.250:1900\\r\\nM'"}
+{'src': '10.76.24.17', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x0e\\x00\\x00\\x00\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_233637DE'"}
+{'src': '10.76.31.95', 'dst': '224.0.0.252', 'protocol': 'UDP', 'port': 5355, 'payload': "b'J\\xcf\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x0fDESKTOP-0E5FGSF\\x00\\x00\\xff\\x00\\x01'"}
+{'src': '10.76.27.47', 'dst': '239.255.255.250', 'protocol': 'UDP', 'port': 1900, 'payload': "b'M-SEARCH * HTTP/1.1\\r\\nHOST: 239.255.255.250:1900\\r\\nM'"}
+{'src': '10.76.10.149', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00[\\x00\\x00\\x00\\x03\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_674A0243'"}
+{'src': '10.76.27.47', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x10_spotify-connect\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01'"}
+{'src': '10.76.32.214', 'dst': '239.255.255.250', 'protocol': 'UDP', 'port': 1900, 'payload': "b'M-SEARCH * HTTP/1.1\\r\\nHOST: 239.255.255.250:1900\\r\\nM'"}
+{'src': '10.76.32.214', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x10_spotify-connect\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01'"}
+{'src': '10.76.32.198', 'dst': '224.0.0.251', 'protocol': 'OTHER', 'port': None, 'payload': ''}
+Empty payload from 10.76.32.198
+{'src': '10.76.25.96', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x03\\x00\\x00\\x00\\x03\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_674A0243'"}
+{'src': '10.76.27.47', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x01\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x80\\x01'"}
+{'src': '10.76.27.47', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x01\\x00\\x00\\x00\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x80\\x01\\t_CC32E753'"}
+{'src': '10.76.27.47', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x01\\x00\\x00\\x00\\x03\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x80\\x01\\t_CC1AD845'"}
+{'src': '10.76.27.47', 'dst': '239.255.255.250', 'protocol': 'UDP', 'port': 1900, 'payload': "b'M-SEARCH * HTTP/1.1\\r\\nHOST: 239.255.255.250:1900\\r\\nM'"}
+{'src': '10.76.32.216', 'dst': '239.255.255.250', 'protocol': 'OTHER', 'port': None, 'payload': ''}
+Empty payload from 10.76.32.216
+{'src': '10.76.27.47', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x01\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x19_spotify-social-listening\\x04_tcp\\x05local\\x00'"}
+{'src': '10.76.27.47', 'dst': '239.255.255.250', 'protocol': 'UDP', 'port': 1900, 'payload': "b'M-SEARCH * HTTP/1.1\\r\\nHOST: 239.255.255.250:1900\\r\\nM'"}
+{'src': '10.76.31.197', 'dst': '239.255.255.250', 'protocol': 'UDP', 'port': 1900, 'payload': "b'M-SEARCH * HTTP/1.1\\r\\nHOST: 239.255.255.250:1900\\r\\nM'"}
+{'src': '10.76.27.47', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x10_spotify-connect\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01'"}
+{'src': '10.76.11.65', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x05\\x00\\x00\\x00\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_233637DE'"}
+{'src': '10.76.32.204', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x005\\x00\\x00\\x00\\x03\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_674A0243'"}
+{'src': '142.251.153.119', 'dst': '10.76.23.80', 'protocol': 'UDP', 'port': 55906, 'payload': "b'[Qd=fa%%\\xc6x\\x88\\xd6\\x11\\xdd\\xad\\xa77\\xea\\x9a \\xf3\\xace\\x9b\\xbe\\nk\\xae\\xed\\x8c-\\r\\xeb`\\xa2\\x14~\\xff\\xcb]\\xaaR\\xfbv@\\\\)\\x15l\\x0c'"}
+{'src': '10.76.32.198', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\x07_rdlink\\x04_tcp\\x05local\\x00\\x00\\x0c\\x80\\x01\\x0f_companion-li'"}
+{'src': '10.76.30.91', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x008\\x00\\x00\\x00\\x03\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_674A0243'"}
+{'src': '10.76.31.166', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x11\\x00\\x00\\x00\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_4AAD7041'"}
+{'src': '10.76.31.186', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x05\\x00\\x00\\x00\\x03\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_674A0243'"}
+{'src': '10.76.1.170', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00S\\x00\\x00\\x00\\x03\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_674A0243'"}
+{'src': '10.76.23.80', 'dst': '23.202.229.22', 'protocol': 'UDP', 'port': 443, 'payload': "b'HE\\x08e\\xe2\\x90\\x80\\x8a0m\\xeb\\xab\\xf7\\xcf\\x06\\xf9\\xe5%\\xb8\\x17%)\\x9f\\xa9\\x8ft?y\\xc5'"}
+{'src': '10.76.23.62', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x19\\x00\\x00\\x00\\x03\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_674A0243'"}
+{'src': '23.202.229.22', 'dst': '10.76.23.80', 'protocol': 'UDP', 'port': 63264, 'payload': "b'L\\x07\\x97u\\xae\\x0bF\\xad\\x81\\xb4!Hs\\xa3i\\x0b\\x81\\x9c\\x06\\x9f\\x12\\x92\\x1dH'"}
+{'src': '10.76.32.198', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x0b\\x00\\x00\\x00\\x00\\x0f_companion-link\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\xc0\\x0c\\x00\\x0c\\x00\\x01'"}
+{'src': '10.76.27.32', 'dst': '10.76.255.255', 'protocol': 'UDP', 'port': 57621, 'payload': "b'SpotUdp01\\xd82\\xc8r\\x8f\\xf3\\xdc\\x00\\x01\\x00\\x00B\\xc4_81\\xd0\\x9f\\xdecy;\\xe3H(60|#;?'"}
+{'src': '10.76.23.80', 'dst': '142.251.154.119', 'protocol': 'UDP', 'port': 443, 'payload': "b'^\\xe4u!\\xd1\\x16,\\x0bE%8#\\x96\\xa7D\\xb7\\xfc\\x17\\xe0_`\\x83\\xf0\\x1f\\xf3\\x13\\xf8\\xf8-'"}
+{'src': '142.251.154.119', 'dst': '10.76.23.80', 'protocol': 'UDP', 'port': 59089, 'payload': "b'P\\x1a.\\x01\\xe7\\xf1\\xfeA\\x16m\\xba\\x9e\\xc9x\\xb0R\\xd7\\xe3\\x88\\xe1=\\xf1\\x1cTI\\x93'"}
+{'src': '10.76.26.194', 'dst': '10.76.255.255', 'protocol': 'UDP', 'port': 57621, 'payload': 'b\'SpotUdp0\\xe5\\x9c\\xbe]\\x96RY\\xc8\\x00\\x01\\x00\\x00\\x85\\x83\\xd7\\x87l\\x03\\x9bn\\xc4\\x05\\x9d\\xca4\\xc2"\\xf1\\xaf!\\xc51\''}
+{'src': '10.76.11.139', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x07\\x00\\x00\\x00\\x03\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_CC1AD845'"}
+{'src': '10.76.27.47', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x02\\x00\\x00\\x00\\x03\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_CC1AD845'"}
+{'src': '10.76.27.47', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x02\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x19_spotify-social-listening\\x04_tcp\\x05local\\x00'"}
+{'src': '10.76.22.204', 'dst': '239.255.255.250', 'protocol': 'UDP', 'port': 1900, 'payload': "b'M-SEARCH * HTTP/1.1\\r\\nHOST: 239.255.255.250:1900\\r\\nM'"}
+{'src': '10.76.3.57', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x84\\x00\\x00\\x00\\x00\\x08\\x00\\x00\\x00\\x04\\x015\\x01D\\x01D\\x018\\x01B\\x011\\x01E\\x01F\\x01F\\x01F\\x01D\\x016\\x01D\\x01D\\x014\\x01C\\x010\\x010\\x010'"}
+{'src': '10.76.24.146', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x10_spotify-connect\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01'"}
+{'src': '10.76.32.198', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x02\\x00\\x0b\\x00\\x00\\x00\\x00\\x07_rdlink\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\x0f_companion-li'"}
+{'src': '0.0.0.0', 'dst': '255.255.255.255', 'protocol': 'UDP', 'port': 67, 'payload': "b'\\x01\\x01\\x06\\x00\\xe8\\xde\\x81\\x8d\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\xa2 =RP\\xec\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '0.0.0.0', 'dst': '255.255.255.255', 'protocol': 'UDP', 'port': 67, 'payload': "b'\\x01\\x01\\x06\\x00\\xe8\\xde\\x81\\x8d\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\xa2 =RP\\xec\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00'"}
+{'src': '10.76.26.194', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x01\\x00\\x00\\x00\\x03\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x80\\x01\\t_CC1AD845'"}
+{'src': '10.76.30.59', 'dst': '239.255.255.250', 'protocol': 'UDP', 'port': 2200, 'payload': "b'RESPONSE * HTTP/1.1\\r\\nDATE:2026-04-19 17:24:51\\r\\ncom'"}
+{'src': '10.76.32.223', 'dst': '239.255.255.250', 'protocol': 'UDP', 'port': 1900, 'payload': "b'M-SEARCH * HTTP/1.1\\r\\nHOST: 239.255.255.250:1900\\r\\nM'"}
+{'src': '10.76.32.223', 'dst': '239.255.255.250', 'protocol': 'UDP', 'port': 1900, 'payload': "b'M-SEARCH * HTTP/1.1\\r\\nHOST: 239.255.255.250:1900\\r\\nM'"}
+{'src': '10.76.28.102', 'dst': '239.255.255.250', 'protocol': 'UDP', 'port': 1900, 'payload': "b'M-SEARCH * HTTP/1.1\\r\\nHOST: 239.255.255.250:1900\\r\\nM'"}
+{'src': '10.76.32.214', 'dst': '239.255.255.250', 'protocol': 'UDP', 'port': 1900, 'payload': "b'M-SEARCH * HTTP/1.1\\r\\nHOST: 239.255.255.250:1900\\r\\nM'"}
+{'src': '10.76.32.223', 'dst': '239.255.255.250', 'protocol': 'UDP', 'port': 1900, 'payload': "b'M-SEARCH * HTTP/1.1\\r\\nHOST: 239.255.255.250:1900\\r\\nM'"}
+{'src': '10.76.33.10', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x10_spotify-connect\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01'"}
+{'src': '10.76.33.10', 'dst': '239.255.255.250', 'protocol': 'UDP', 'port': 1900, 'payload': "b'M-SEARCH * HTTP/1.1\\r\\nHOST: 239.255.255.250:1900\\r\\nM'"}
+{'src': '10.76.26.17', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00f\\x00\\x00\\x00\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_233637DE'"}
+{'src': '10.76.32.214', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x10_spotify-connect\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01'"}
+{'src': '10.76.26.124', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x02\\x00\\x00\\x00\\x02\\x00\\x00\\tAndroid-5\\x05local\\x00\\x00\\xff\\x80\\x01\\xc0\\x0c\\x00\\xff\\x80\\x01\\xc0\\x0c\\x00\\x01\\x00\\x01\\x00\\x00\\x00x\\x00'"}
+{'src': '10.76.32.216', 'dst': '239.255.255.250', 'protocol': 'OTHER', 'port': None, 'payload': ''}
+Empty payload from 10.76.32.216
+{'src': '10.76.27.47', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x03\\x00\\x00\\x00\\x03\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_CC1AD845'"}
+{'src': '10.76.29.82', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00 \\x00\\x00\\x00\\x03\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_674A0243'"}
+{'src': '10.76.27.47', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x03\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x19_spotify-social-listening\\x04_tcp\\x05local\\x00'"}
+{'src': '10.76.27.47', 'dst': '239.255.255.250', 'protocol': 'UDP', 'port': 1900, 'payload': "b'M-SEARCH * HTTP/1.1\\r\\nHOST: 239.255.255.250:1900\\r\\nM'"}
+{'src': '10.76.27.47', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x10_spotify-connect\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01'"}
+{'src': '10.76.25.244', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00A\\x00\\x00\\x00\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_233637DE'"}
+{'src': '10.76.24.146', 'dst': '239.255.255.250', 'protocol': 'UDP', 'port': 1900, 'payload': "b'M-SEARCH * HTTP/1.1\\r\\nHOST: 239.255.255.250:1900\\r\\nM'"}
+{'src': '10.76.26.176', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x05\\x00\\x00\\x00\\x04\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_674A0243'"}
+{'src': '10.76.26.124', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x02\\x00\\x00\\x00\\x02\\x00\\x00\\tAndroid-5\\x05local\\x00\\x00\\xff\\x00\\x01\\xc0\\x0c\\x00\\xff\\x00\\x01\\xc0\\x0c\\x00\\x01\\x00\\x01\\x00\\x00\\x00x\\x00'"}
+{'src': '10.76.22.59', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x16\\x00\\x00\\x00\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_233637DE'"}
+{'src': '10.76.23.80', 'dst': '51.105.71.136', 'protocol': 'TCP', 'port': 443, 'payload': "b'\\x00'"}
+{'src': '51.105.71.136', 'dst': '10.76.23.80', 'protocol': 'TCP', 'port': 55613, 'payload': "b''"}
+Empty payload from 51.105.71.136
+{'src': '10.76.26.194', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x02\\x00\\x00\\x00\\x03\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_CC1AD845'"}
+{'src': '10.76.26.124', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x02\\x00\\x00\\x00\\x02\\x00\\x00\\tAndroid-5\\x05local\\x00\\x00\\xff\\x00\\x01\\xc0\\x0c\\x00\\xff\\x00\\x01\\xc0\\x0c\\x00\\x01\\x00\\x01\\x00\\x00\\x00x\\x00'"}
+{'src': '10.76.28.102', 'dst': '239.255.255.250', 'protocol': 'UDP', 'port': 1900, 'payload': "b'M-SEARCH * HTTP/1.1\\r\\nHOST: 239.255.255.250:1900\\r\\nM'"}
+{'src': '10.76.26.124', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x84\\x00\\x00\\x00\\x00\\x04\\x00\\x00\\x00\\x03\\x03124\\x0226\\x0276\\x0210\\x07in-addr\\x04arpa\\x00\\x00\\x0c\\x80\\x01\\x00\\x00\\x00x\\x00\\x11\\t'"}
+{'src': '10.76.32.219', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x05\\x00\\x12\\x00\\x00\\x00\\x00\\x0c_airplay-bds\\x04_tcp\\x05local\\x00\\x00\\x0c\\x80\\x01\\x08_airplay'"}
+{'src': '10.76.27.47', 'dst': '10.76.255.255', 'protocol': 'UDP', 'port': 57621, 'payload': 'b"SpotUdp0\\x0f\\xff0\\xaa\\xbdj\'\\xcd\\x00\\x01\\x00\\x00T\'\\xa0\\x1c\\xdf7\\xff\\xc6J\\x98\\x17aI\\xc8o\\xe8\\xb3\\x91eS"'}
+{'src': '10.76.27.192', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00*\\x00\\x00\\x00\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_233637DE'"}
+{'src': '10.76.31.192', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x10_spotify-connect\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01'"}
+{'src': '10.76.25.210', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x0b\\x00\\x00\\x00\\x04\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_674A0243'"}
+{'src': '10.76.10.31', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x000\\x00\\x00\\x00\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_233637DE'"}
+{'src': '10.76.28.157', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x01\\x00\\x00\\x00\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x80\\x01\\t_674A0243'"}
+{'src': '10.76.28.157', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x01\\x00\\x00\\x00\\x03\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x80\\x01\\t_674A0243'"}
+{'src': '10.76.28.157', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x01\\x00\\x00\\x00\\x03\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x80\\x01\\t_674A0243'"}
+{'src': '10.76.26.194', 'dst': '10.76.255.255', 'protocol': 'UDP', 'port': 57621, 'payload': 'b\'SpotUdp0\\xe5\\x9c\\xbe]\\x96RY\\xc8\\x00\\x01\\x00\\x00\\x85\\x83\\xd7\\x87l\\x03\\x9bn\\xc4\\x05\\x9d\\xca4\\xc2"\\xf1\\xaf!\\xc51\''}
+{'src': '10.76.28.102', 'dst': '239.255.255.250', 'protocol': 'UDP', 'port': 1900, 'payload': "b'M-SEARCH * HTTP/1.1\\r\\nHOST: 239.255.255.250:1900\\r\\nM'"}
+{'src': '10.76.32.214', 'dst': '239.255.255.250', 'protocol': 'UDP', 'port': 1900, 'payload': "b'M-SEARCH * HTTP/1.1\\r\\nHOST: 239.255.255.250:1900\\r\\nM'"}
+{'src': '10.76.26.124', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x84\\x00\\x00\\x00\\x00\\x04\\x00\\x00\\x00\\x03\\x03124\\x0226\\x0276\\x0210\\x07in-addr\\x04arpa\\x00\\x00\\x0c\\x80\\x01\\x00\\x00\\x00x\\x00\\x11\\t'"}
+{'src': '10.76.23.80', 'dst': '23.202.229.22', 'protocol': 'UDP', 'port': 443, 'payload': "b']E\\x08e\\xe2\\x90\\x80\\x8a0/H\\x19p\\xde5&x0\\xdc/\\x81\\x8a\\xcf\\x18\\xbeE[\\x19\\xc3'"}
+{'src': '10.76.31.192', 'dst': '239.255.255.250', 'protocol': 'UDP', 'port': 1900, 'payload': "b'M-SEARCH * HTTP/1.1\\r\\nHOST: 239.255.255.250:1900\\r\\nM'"}
+{'src': '23.202.229.22', 'dst': '10.76.23.80', 'protocol': 'UDP', 'port': 63264, 'payload': "b'D\\xb0\\xbdZ\\x00\\xc7\\x0b\\xc0\\xe1\\x9b\\xb4\\x9a\\xca])\\xa5\\x82\\xd1NAf\\nX\\x85'"}
+{'src': '10.76.32.214', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x10_spotify-connect\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01'"}
+{'src': '10.76.32.219', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x03\\x00\\x12\\x00\\x00\\x00\\x00\\x0c_airplay-bds\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\x08_airplay'"}
+{'src': '10.76.33.10', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x10_spotify-connect\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01'"}
+{'src': '10.76.32.216', 'dst': '239.255.255.250', 'protocol': 'OTHER', 'port': None, 'payload': ''}
+Empty payload from 10.76.32.216
+{'src': '10.76.27.47', 'dst': '239.255.255.250', 'protocol': 'UDP', 'port': 1900, 'payload': "b'M-SEARCH * HTTP/1.1\\r\\nHOST: 239.255.255.250:1900\\r\\nM'"}
+{'src': '10.76.27.47', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x10_spotify-connect\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01'"}
+{'src': '10.76.32.198', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x02\\x00\\x0b\\x00\\x00\\x00\\x00\\x07_rdlink\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\x0f_companion-li'"}
+{'src': '10.76.28.157', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x02\\x00\\x00\\x00\\x03\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_674A0243'"}
+{'src': '10.76.28.102', 'dst': '239.255.255.250', 'protocol': 'UDP', 'port': 1900, 'payload': "b'M-SEARCH * HTTP/1.1\\r\\nHOST: 239.255.255.250:1900\\r\\nM'"}
+{'src': '10.76.11.25', 'dst': '239.255.255.250', 'protocol': 'UDP', 'port': 1900, 'payload': "b'M-SEARCH * HTTP/1.1\\r\\nHOST: 239.255.255.250:1900\\r\\nM'"}
+{'src': '10.76.29.180', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x10_spotify-connect\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01'"}
+{'src': '10.76.33.10', 'dst': '239.255.255.250', 'protocol': 'UDP', 'port': 1900, 'payload': "b'M-SEARCH * HTTP/1.1\\r\\nHOST: 239.255.255.250:1900\\r\\nM'"}
+{'src': '10.76.26.214', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x0c\\x00\\x00\\x00\\x03\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_CC1AD845'"}
+{'src': '10.76.26.127', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x04\\x00\\x00\\x00\\x04\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_674A0243'"}
+{'src': '10.76.29.180', 'dst': '239.255.255.250', 'protocol': 'UDP', 'port': 1900, 'payload': "b'M-SEARCH * HTTP/1.1\\r\\nHOST: 239.255.255.250:1900\\r\\nM'"}
+{'src': '10.76.23.80', 'dst': '104.18.32.47', 'protocol': 'UDP', 'port': 443, 'payload': "b'P\\x01PJR\\xdd-&\\xa8\\x88R\\xb7RE-\\x18\\xe9\\xe6I?4b2S^7\\xf0n\\xc7\\x0b_\\xc9d))\\xd5b\\x03\\xa6\\xc2/'"}
+{'src': '104.18.32.47', 'dst': '10.76.23.80', 'protocol': 'UDP', 'port': 61660, 'payload': "b'_S>;\\xd8\\xc0\\x03n\\xcba\\x90N\\xf9\\xc5\\xe5\\x93\\xcc\\x86N\\x89\\xf7d\\x9e '"}
+{'src': '10.76.23.198', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x0c\\x00\\x00\\x00\\x03\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_674A0243'"}
+{'src': '10.76.28.157', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x03\\x00\\x00\\x00\\x03\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_674A0243'"}
+{'src': '10.76.32.254', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00D\\x00\\x00\\x00\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_233637DE'"}
+{'src': '10.76.13.227', 'dst': '10.76.255.255', 'protocol': 'UDP', 'port': 57621, 'payload': "b'SpotUdp0\\x03<o\\x80\\xdcU\\x08\\x8c\\x00\\x01\\x00\\x00B\\x96\\xac\\xc7\\xc3\\xcb\\xf4lQv\\x15\\xfa-\\xa25\\xd1\\x9bRwo'"}
+{'src': '23.202.229.22', 'dst': '10.76.23.80', 'protocol': 'UDP', 'port': 63264, 'payload': "b'K\\x9e\\x85\\xd9\\x9c\\xa7DQ\\x81\\xf9\\x96\\x98\\xba\\xde\\x9d,k\\xaa\\x87\\x8f}\\xfe9\\x05,\\xca\\xc3k\\xe9|5\\t\\xc2t\\x81\\x85:pG\\t\\x00Jj\\x8b\\xec)|\\x13@$'"}
+{'src': '10.76.32.216', 'dst': '239.255.255.250', 'protocol': 'OTHER', 'port': None, 'payload': ''}
+Empty payload from 10.76.32.216
+{'src': '10.76.26.105', 'dst': '239.255.255.250', 'protocol': 'UDP', 'port': 1900, 'payload': "b'M-SEARCH * HTTP/1.1\\r\\nHOST: 239.255.255.250:1900\\r\\nM'"}
+{'src': '10.76.27.47', 'dst': '239.255.255.250', 'protocol': 'UDP', 'port': 1900, 'payload': "b'M-SEARCH * HTTP/1.1\\r\\nHOST: 239.255.255.250:1900\\r\\nM'"}
+{'src': '10.76.27.47', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x10_spotify-connect\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01'"}
+{'src': '10.76.32.176', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\x0f_companion-link\\x04_tcp\\x05local\\x00\\x00\\x0c\\x80\\x01\\x07_rdli'"}
+{'src': '10.76.32.176', 'dst': '224.0.0.251', 'protocol': 'OTHER', 'port': None, 'payload': ''}
+Empty payload from 10.76.32.176
+{'src': '10.76.11.61', 'dst': '239.255.255.250', 'protocol': 'UDP', 'port': 1900, 'payload': "b'M-SEARCH * HTTP/1.1\\r\\nHOST: 239.255.255.250:1900\\r\\nM'"}
+{'src': '10.76.33.7', 'dst': '224.0.0.251', 'protocol': 'OTHER', 'port': None, 'payload': ''}
+Empty payload from 10.76.33.7
+{'src': '10.76.31.127', 'dst': '239.255.255.250', 'protocol': 'UDP', 'port': 1900, 'payload': "b'M-SEARCH * HTTP/1.1\\r\\nHOST: 239.255.255.250:1900\\r\\nM'"}
+{'src': '10.76.32.176', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x0b\\x00\\x00\\x00\\x00\\x0f_companion-link\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\xc0\\x0c\\x00\\x0c\\x00\\x01'"}
+{'src': '10.76.26.126', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x08\\x00\\x00\\x00\\x03\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_674A0243'"}
+{'src': '10.76.30.59', 'dst': '239.255.255.250', 'protocol': 'UDP', 'port': 2200, 'payload': "b'RESPONSE * HTTP/1.1\\r\\nDATE:2026-04-19 17:24:56\\r\\ncom'"}
+{'src': '10.76.33.7', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\x0f_companion-link\\x04_tcp\\x05local\\x00\\x00\\x0c\\x80\\x01\\x07_rdli'"}
+{'src': '10.76.33.10', 'dst': '239.255.255.250', 'protocol': 'UDP', 'port': 1900, 'payload': "b'M-SEARCH * HTTP/1.1\\r\\nHOST: 239.255.255.250:1900\\r\\nM'"}
+{'src': '10.76.27.89', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x16\\x00\\x00\\x00\\x04\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_674A0243'"}
+{'src': '10.76.1.251', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x13\\x00\\x00\\x00\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\t_233637DE'"}
+{'src': '10.76.32.219', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x03\\x00\\x12\\x00\\x00\\x00\\x00\\x0c_airplay-bds\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\x08_airplay'"}
+{'src': '10.76.31.95', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01'"}
+{'src': '10.76.31.95', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x0b_googlecast\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01'"}
+{'src': '10.76.33.7', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\n\\x00\\x00\\x00\\x00\\x0f_companion-link\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\xc0\\x0c\\x00\\x0c\\x00\\x01'"}
+{'src': '10.76.32.176', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x07_rdlink\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01'"}
+{'src': '10.76.30.117', 'dst': '224.0.0.251', 'protocol': 'UDP', 'port': 5353, 'payload': "b'\\x00\\x00\\x84\\x00\\x00\\x00\\x00\\x02\\x00\\x00\\x00\\x06\\x0f_companion-link\\x04_tcp\\x05local\\x00\\x00\\x0c\\x00\\x01\\x00\\x00\\x11\\x94\\x00\\x1a'"}
